@@ -9,13 +9,11 @@ class Tema2{ //(2.1.5.1) Crea un programa que pida al usuario un número entero 
 		num1 = Convert.ToInt32(
 			Console.ReadLine());
 					
-		if (num1 % 2 == 0){
-			Console.WriteLine(num1 + " es multiplo de 2");
-		}
-		if (num1 % 3 == 0){
-			Console.WriteLine(num1 + " es multiplo de 2");
+		if (num1 % 2 == 0 || num1 % 3 == 0){
+			Console.WriteLine(num1 + " es multiplo de 2 o de 3");
 		}else{
-			Console.WriteLine(num1 + " no es multiplo ni de 2 ni de 3");
+			Console.WriteLine(num1 + " es multiplo ni de 2 ni de 3");
+			
 		}
 	}
 }
