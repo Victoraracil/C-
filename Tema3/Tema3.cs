@@ -1,7 +1,7 @@
 using System;
 class Program {
 	public static void Main() {  //menú principal que llama al punto 3.1
-		Console.WriteLine("Ejercicios tema 3");
+		Console.WriteLine("Ejercicios 3.1");
 		
 		string op;
 		do {
@@ -67,15 +67,47 @@ class Program {
 		byte edad = Convert.ToByte(num);
 		
 		Console.WriteLine("No aparentas " + edad + " anyos"); 
+		Console.WriteLine("Presiona ENTER para continuar...");
+        Console.ReadLine();
 		
 		
 		
 		/*(3.1.2.2) Pide al usuario dos números de dos cifras ("byte"), calcula su
 		multiplicación, que se deberá guardar en un "int", y muestra el resultado en
-		pantalla.
-		(3.1.2.3) Pide al usuario dos números enteros largos ("long") y muestra su suma,
+		pantalla.*/
+		
+		Console.WriteLine("Ejercicio 3.1.2.1");
+		
+		byte num1=0, num2=0;
+		Console.WriteLine("Introduce un numero de dos cifras");
+		num1 = Convert.ToByte(Console.ReadLine());
+		
+		Console.WriteLine("Introduce otro numero de dos cifras");
+		num2 = Convert.ToByte(Console.ReadLine());
+		
+		int rest = num1 * num2;
+		
+		Console.WriteLine(num1 + " X " + num2 + " = " + rest);
+		Console.WriteLine("Presiona ENTER para continuar...");
+        Console.ReadLine();
+		
+		/*(3.1.2.3) Pide al usuario dos números enteros largos ("long") y muestra su suma,
 		su resta y su producto.*/
 		
+		long numa=0, numb=0;
+		Console.WriteLine("Introduce un numero entero (puede ser largo)");
+		numa = Convert.ToInt64(Console.ReadLine());
+		
+		Console.WriteLine("Introduce otro número entero (puede ser largo):");
+        numb = Convert.ToInt64(Console.ReadLine());
+		
+		long rest1 = numa + numb;
+		long rest2 = numa - numb;
+		long rest3 = numa * numb;
+		
+		Console.WriteLine(num1 + " + " + num2 + " = " + rest1);
+		Console.WriteLine(num1 + " - " + num2 + " = " + rest2);
+		Console.WriteLine(num1 + " X " + num2 + " = " + rest3);
 		Console.WriteLine("Presiona ENTER para continuar...");
         Console.ReadLine();
 		
@@ -87,10 +119,34 @@ class Program {
 		/*(3.1.3.1) Crea un programa que use tres variables enteras x,y,z. Sus valores
 		iniciales serán 15, -10, 2.147.483.647. Se deberá incrementar el valor de estas
 		variables. ¿Qué valores esperas que se obtengan? Contrástalo con el resultado
-		obtenido por el programa.
-		(3.1.3.2) ¿Cuál sería el resultado de las siguientes operaciones? a=5; b=++a; c=a++;
+		obtenido por el programa.*/
+		
+		int x = 15, y = -15, z = 2147483647;
+		x++;
+		y++;
+		z++;
+		Console.WriteLine("X = "+ x + "  Incrementa a 16");
+		Console.WriteLine("Y = "+ y + "  Al ser negativo pasa a -14");
+		Console.WriteLine("Z = "+ z + "  No se :(");
+		
+		Console.WriteLine("Presiona ENTER para continuar...");
+        Console.ReadLine();
+
+		/*(3.1.3.2) ¿Cuál sería el resultado de las siguientes operaciones? a=5; b=++a; c=a++;
 		b=b*5; a=a*2; Calcúlalo a mano y luego crea un programa que lo resuelva, para
-		ver si habías hallado la solución correcta.*/		
+		ver si habías hallado la solución correcta.*/
+		
+		int a, b, c;
+		a = 5;
+		Console.WriteLine("a = " + a);
+		b = ++a;
+		Console.WriteLine("b = " + b);
+		c = a++;
+		Console.WriteLine("c = " + c);
+		b = b * 5;
+		Console.WriteLine("b = " + b);
+		a = a * 2;
+		Console.WriteLine("a = " + a);
 		
 		Console.WriteLine("Presiona ENTER para continuar...");
         Console.ReadLine();
@@ -103,6 +159,8 @@ class Program {
 		15, -10, 214. Deberás incrementar el valor de estas variables en 12, usando el
 		formato abreviado. ¿Qué valores esperas que se obtengan? Contrástalo con el
 		resultado obtenido por el programa.
+		
+		
 		(3.1.4.2) ¿Cuál sería el resultado de las siguientes operaciones? a=5; b=a+2; b-=3;
 		c=-3; c*=2; ++c; a*=b; Crea un programa que te lo muestre.*/	
 		
