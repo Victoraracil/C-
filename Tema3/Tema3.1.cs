@@ -158,11 +158,38 @@ class Program {
 		/*(3.1.4.1) Crea un programa que use tres variables x,y,z. Sus valores iniciales serán
 		15, -10, 214. Deberás incrementar el valor de estas variables en 12, usando el
 		formato abreviado. ¿Qué valores esperas que se obtengan? Contrástalo con el
-		resultado obtenido por el programa.
+		resultado obtenido por el programa.*/
 		
+		int x = 15, y = -10, z = 214;
+		x+=12;
+		y+=12;
+		z+=12;
+		Console.WriteLine("X = "+ x + "  Incrementa a 27");
+		Console.WriteLine("Y = "+ y + "  Incrementa a 2");
+		Console.WriteLine("Z = "+ z + "  Incrementa a 226");
 		
-		(3.1.4.2) ¿Cuál sería el resultado de las siguientes operaciones? a=5; b=a+2; b-=3;
+		Console.WriteLine("Presiona ENTER para continuar...");
+        Console.ReadLine();
+		
+		/*(3.1.4.2) ¿Cuál sería el resultado de las siguientes operaciones? a=5; b=a+2; b-=3;
 		c=-3; c*=2; ++c; a*=b; Crea un programa que te lo muestre.*/	
+		
+		
+		int a, b, c;
+		a = 5;
+		Console.WriteLine("a = " + a);
+		b = 2 +a;
+		Console.WriteLine("b = " + b);
+		b-= 3;
+		Console.WriteLine("b = " + b);
+		c = -3;
+		Console.WriteLine("c = " + c);
+		c*= 2;
+		Console.WriteLine("c = " + c);
+		c++;
+		Console.WriteLine("c = " + c);
+		a*= b;
+		Console.WriteLine("a = " + a);
 		
 		Console.WriteLine("Presiona ENTER para continuar...");
         Console.ReadLine();	
@@ -182,7 +209,17 @@ class Program {
 		/*(3.1.6.1) Crea un programa que pida al número del 0 al 255 y muestre el resultado
 		de hacer un XOR con un cierto dato prefijado (y también en ese rango).
 		Comprueba que la operación es reversible (por ejemplo, 131 xor 5 = 134, y 134 xor
-		5 = 131).*/		
+		5 = 131).*/	
+		
+		int num, num1;
+		Console.WriteLine("Introduce un numero entre 0 y 255");
+		num = Convert.ToInt32(
+			Console.ReadLine());
+			
+		num1 = num^5;
+		
+		Console.WriteLine("La suma logica de " + num + " + 5 es " + num1);
+			
 		
 		Console.WriteLine("Presiona ENTER para continuar...");
         Console.ReadLine();
