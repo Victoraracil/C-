@@ -8,7 +8,10 @@ class Tema2{ //(2.1.9.2) Crea un programa que lea una letra tecleada por el usua
 		letra = Convert.ToChar( Console.ReadLine() );
 		switch (letra)
 		{
-		case ' ': Console.WriteLine("Espacio.");
+		case '.':
+		case ',': 
+		case ':':
+		case ';': Console.WriteLine("Signo de puntuacion."); 
 		break;
 		case '1': Console.WriteLine("Uno."); break;
 		case '2': Console.WriteLine("Dos."); break;
@@ -19,9 +22,9 @@ class Tema2{ //(2.1.9.2) Crea un programa que lea una letra tecleada por el usua
 		case '7': Console.WriteLine("Siete."); break;
 		case '8': Console.WriteLine("Ocho."); break;
 		case '9': Console.WriteLine("Nueve."); break;
-		case '0': Console.WriteLine("Diez.");
+		case '0': Console.WriteLine("Cero.");
 		break;
-		default: Console.WriteLine("Ni espacio ni dígito.");
+		default: Console.WriteLine("Otro caracter.");
 		break;
 		}
 	}
