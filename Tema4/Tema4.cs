@@ -30,3 +30,26 @@ class Program {
 
 		}while (op != "0");
 	}
+	
+	public static void punto1(){
+		
+	}
+	public static void punto2(){
+		
+	}
+	public static void punto3(){
+	
+	}
+	public static void punto4(){
+	
+	}
+	public static void punto5(){
+	
+	}
+	public static void punto6(){
+	
+	}
+	public static void punto7(){
+	
+	}	
+}
