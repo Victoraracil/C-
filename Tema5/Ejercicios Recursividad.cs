@@ -49,16 +49,51 @@ class Ejercicios_Recursividad{
 		debe crear de forma recursiva. Piensa cuál será el caso base (qué potencia se
 		puede calcular de forma trivial) y cómo pasar del caso "n-1" al caso "n" (por
 		ejemplo, si sabes el valor de 54, cómo hallarías el de 55 a partir de él).*/
+		
+		Console.WriteLine("introduce el numero base");
+		int num = Convert.ToInt32(
+			Console.ReadLine());
+		Console.WriteLine("introduce al que lo quieres elevar");
+		int num1 = Convert.ToInt32(
+			Console.ReadLine());
+		
+		Console.WriteLine(num + " elevado a " + num1 + " = " + ElevoNum(num, num1)); 
+		Console.WriteLine("Presiona ENTER para continuar...");
+        Console.ReadLine();	
+		
 	}
 	public static void Ejercicio2(){
 		/*(5.9.2) Como alternativa, crea una función que calcule el valor de elevar un
 		número entero a otro número entero de forma NO recursiva (lo que llamaremos
 		"de forma iterativa"), usando la orden "for".*/
+		
+		Console.WriteLine("introduce el numero base");
+		int num = Convert.ToInt32(
+			Console.ReadLine());
+		Console.WriteLine("introduce al que lo quieres elevar");
+		int num1 = Convert.ToInt32(
+			Console.ReadLine());
+		
+		Console.WriteLine(num + " elevado a " + num1 + " = " + ElevoNum2(num, num1)); 
+		
+		Console.WriteLine("Presiona ENTER para continuar...");
+        Console.ReadLine();	
 	}
 	public static void Ejercicio3(){
 		/*(5.9.3) Crea un programa que emplee recursividad para calcular un número de la
 		serie Fibonacci (en la que los dos primeros elementos valen 1, y para los restantes,
 		cada elemento es la suma de los dos anteriores).*/
+		
+		Console.WriteLine("Introduce el número de la serie Fibonacci que deseas calcular:");
+        int n = Convert.ToInt32(
+			Console.ReadLine());
+
+        int resultado = Fibonacci(n);
+        Console.WriteLine("El número" +  n + " en la serie Fibonacci es: " + resultado);
+		
+		
+		Console.WriteLine("Presiona ENTER para continuar...");
+        Console.ReadLine();	
 	}
 	public static void Ejercicio4(){
 		/*(5.9.4) Crea un programa que emplee recursividad para calcular la suma de los
@@ -69,10 +104,14 @@ class Ejercicios_Recursividad{
 		ejemplo, si conoces la suma de los 6 primeros elementos y el valor del séptimo
 		elemento, cómo podrías emplear esta información para conocer la suma de los 7
 		primeros).*/
+		Console.WriteLine("Presiona ENTER para continuar...");
+        Console.ReadLine();	
 	}
 	public static void Ejercicio5(){
 		/*(5.9.5) Crea un programa que emplee recursividad para calcular el mayor de los
 		elementos de un vector. El planteamiento será muy similar al del ejercicio anterior.*/
+		Console.WriteLine("Presiona ENTER para continuar...");
+        Console.ReadLine();	
 	}
 	public static void Ejercicio6(){
 		/*(5.9.6) Crea un programa que emplee recursividad para dar la vuelta a una cadena
@@ -81,11 +120,15 @@ class Ejercicios_Recursividad{
 		base (qué longitud debería tener una cadena para que sea trivial darle la vuelta) y
 		cómo pasar del caso "n-1" al caso "n" (por ejemplo, si ya has invertido las 5
 		primeras letras, que ocurriría con la letra de la sexta posición).*/
+		Console.WriteLine("Presiona ENTER para continuar...");
+        Console.ReadLine();	
 	}
 	public static void Ejercicio7(){
 		/*(5.9.7) Crea, tanto de forma recursiva como de forma iterativa, una función diga si
 		una cadena de caracteres es simétrica (un palíndromo). Por ejemplo, "OSO",
 		"RADAR" y "DABALEARROZALAZORRAELABAD" son palíndromos.*/
+		Console.WriteLine("Presiona ENTER para continuar...");
+        Console.ReadLine();	
 	}
 	public static void Ejercicio8(){
 		/*Crea un programa que encuentre el máximo común divisor de dos
@@ -94,11 +137,15 @@ class Ejercicios_Recursividad{
 		entero positivo que divide a ambos, se puede: 1) Dividir m por n para obtener el
 		resto r (0 ≤ r < n) ; 2) Si r = 0, el MCD es n; 3) Si el resto no es cero, el máximo
 		común divisor es MCD(n,r).*/
+		Console.WriteLine("Presiona ENTER para continuar...");
+        Console.ReadLine();	
 	}
 	public static void Ejercicio9(){
 		/*(5.9.9) Crea dos funciones que sirvan para saber si un cierto texto es subcadena de
 		una cadena. No puedes usar "Contains" ni "IndexOf", sino que debes analizar letra
 		a letra. Una función debe ser iterativa y la otra debe ser recursiva.*/
+		Console.WriteLine("Presiona ENTER para continuar...");
+        Console.ReadLine();	
 	}
 	public static void Ejercicio10(){
 		/*(5.9.10) Crea una función que reciba una cadena de texto, y una subcadena, y
@@ -109,6 +156,8 @@ class Ejercicios_Recursividad{
 		H con la primera O, o bien la segunda H con la segunda O. Si recibes "hobla", la
 		respuesta sería 1. Si recibes "ohla", la respuesta sería 0, porque tras la H no hay
 		ninguna O que permita completar la secuencia en orden.*/
+		Console.WriteLine("Presiona ENTER para continuar...");
+        Console.ReadLine();	
 	}
 	public static void Ejercicio11(){
 		/*(5.9.11) El algoritmo de ordenación conocido como "Quicksort", parte de la
@@ -119,9 +168,11 @@ class Ejercicios_Recursividad{
 		forma recursiva a Quicksort para cada una de las dos mitades. El caso base de la
 		función recursiva es cuando se llega a un array de tamaño 0 ó 1. Implementa una
 		función que ordene un array usando este método.*/
+		Console.WriteLine("Presiona ENTER para continuar...");
+        Console.ReadLine();	
 	}
 	
-	static void Main2(){
+	/*static void Main2(){
 		int num;
 			Console.WriteLine("Introduzca un número entero: ");
 			num = Convert.ToInt32(Console.ReadLine());
@@ -132,6 +183,30 @@ class Ejercicios_Recursividad{
 			if (n==1) // Aseguramos que termine (caso base)
 			return 1;
 			return n * Factorial(n-1); // Si no es 1, sigue la recursión
+		
+	}*/
+	public static long ElevoNum(int n1, int n2){
+			
+		if (n2 == 1)	
+		return n1;
+		n1 = n1 * n1 ;
+		n2--;
+		return ElevoNum(n1, n2);
+	}
+	public static long ElevoNum2(int n1, int n2){
+		while (n2 != 1){
+			n1 = n1*n1;
+			n2--;
 		}
-	
+		return n1;
+	}
+	public static long Fibonacci(int n){
+		if (n == 1 || n == 2)
+		return 1;
+		int n1, n2 = 1, n3 = 2;
+		n1 = n2 + n3;
+		n2 = n3;
+		n3 = n1; //solucion super mal optimizada, acabar
+		
+	}
 }
