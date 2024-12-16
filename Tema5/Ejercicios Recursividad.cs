@@ -84,12 +84,12 @@ class Ejercicios_Recursividad{
 		serie Fibonacci (en la que los dos primeros elementos valen 1, y para los restantes,
 		cada elemento es la suma de los dos anteriores).*/
 		
-		Console.WriteLine("Introduce el número de la serie Fibonacci que deseas calcular:");
+		/*Console.WriteLine("Introduce el número de la serie Fibonacci que deseas calcular:");
         int n = Convert.ToInt32(
 			Console.ReadLine());
 
         int resultado = Fibonacci(n);
-        Console.WriteLine("El número" +  n + " en la serie Fibonacci es: " + resultado);
+        Console.WriteLine("El número" +  n + " en la serie Fibonacci es: " + resultado);*/
 		
 		
 		Console.WriteLine("Presiona ENTER para continuar...");
@@ -187,18 +187,23 @@ class Ejercicios_Recursividad{
 	}*/
 	public static long ElevoNum(int n1, int n2){
 			
+		if (n2 == 0)	
+		return 1;	
 		if (n2 == 1)	
 		return n1;
-		n1 = n1 * n1 ;
-		n2--;
-		return ElevoNum(n1, n2);
+		return n1 * ElevoNum(n1, n2-1);
 	}
 	public static long ElevoNum2(int n1, int n2){
-		while (n2 != 1){
-			n1 = n1*n1;
-			n2--;
-		}
+		if (n2 == 0)	
+		return 1;	
+		if (n2 == 1)	
 		return n1;
+		int total;
+		total = n1;
+		for (int contador = n2 ; contador != 1
+		 ; total = total * n1, contador--);
+		return total;
+			
 	}
 	public static long Fibonacci(int n){
 		if (n == 1 || n == 2)
