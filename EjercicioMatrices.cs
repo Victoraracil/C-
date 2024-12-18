@@ -154,7 +154,7 @@ class ExamenVictorAracil{
 		for (int i = 0; i < m.mr.GetLength(0); i++){
 			for (int j = 0; j < m.mr.GetLength(1); j++){
 				for (int z = 1; z < m.mr.GetLength(1); z++){
-					m.mr[i,j] = (m.m1[i,j] * m.m2[i,z-1]) + (m.m1[i,z] * m.m2[z,j]);
+					m.mr[i,j] = (m.m1[i,j] * m.m2[i,z]) + (m.m1[i,z] * m.m2[z,j]);
 				}	
 			}
 		}
