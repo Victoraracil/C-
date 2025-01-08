@@ -1,0 +1,15 @@
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Libro (ejercicio 6.3.3)\bin\Debug\net8.0\Libro (ejercicio 6.3.3)..exe
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Libro (ejercicio 6.3.3)\bin\Debug\net8.0\Libro (ejercicio 6.3.3)..deps.json
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Libro (ejercicio 6.3.3)\bin\Debug\net8.0\Libro (ejercicio 6.3.3)..runtimeconfig.json
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Libro (ejercicio 6.3.3)\bin\Debug\net8.0\Libro (ejercicio 6.3.3)..dll
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Libro (ejercicio 6.3.3)\bin\Debug\net8.0\Libro (ejercicio 6.3.3)..pdb
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Libro (ejercicio 6.3.3)\obj\Debug\net8.0\Libro (ejercicio 6.3.3)..GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Libro (ejercicio 6.3.3)\obj\Debug\net8.0\Libro (ejercicio 6.3.3)..AssemblyInfoInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Libro (ejercicio 6.3.3)\obj\Debug\net8.0\Libro (ejercicio 6.3.3)..AssemblyInfo.cs
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Libro (ejercicio 6.3.3)\obj\Debug\net8.0\Libro (ejercicio 6.3.3)..csproj.CoreCompileInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Libro (ejercicio 6.3.3)\obj\Debug\net8.0\Libro (ejercicio 6.3.3)..sourcelink.json
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Libro (ejercicio 6.3.3)\obj\Debug\net8.0\Libro (ejercicio 6.3.3)..dll
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Libro (ejercicio 6.3.3)\obj\Debug\net8.0\refint\Libro (ejercicio 6.3.3)..dll
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Libro (ejercicio 6.3.3)\obj\Debug\net8.0\Libro (ejercicio 6.3.3)..pdb
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Libro (ejercicio 6.3.3)\obj\Debug\net8.0\Libro (ejercicio 6.3.3)..genruntimeconfig.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Libro (ejercicio 6.3.3)\obj\Debug\net8.0\ref\Libro (ejercicio 6.3.3)..dll
