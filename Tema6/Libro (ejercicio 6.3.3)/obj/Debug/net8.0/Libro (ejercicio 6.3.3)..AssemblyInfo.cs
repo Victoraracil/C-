@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Libro (ejercicio 6.3.3).")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fca2cbcf0f86a5eada59e78e975f2ffd3495f521")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39cee3a216658db042cb0f247df216f3cfb19a18")]
 [assembly: System.Reflection.AssemblyProductAttribute("Libro (ejercicio 6.3.3).")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Libro (ejercicio 6.3.3).")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

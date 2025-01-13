@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Coche(Ejercicio6.3.7)/1.0.0": {
+        "runtime": {
+          "Coche(Ejercicio6.3.7).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Coche(Ejercicio6.3.7)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\Victor Aracil\Desktop\C#\Tema6\ConsoleInvaders (ejercicio 6.3.4)\bin\Debug\net8.0\ConsoleInvaders (ejercicio 6.3.4 - 6.3.6).exe
+C:\Users\Victor Aracil\Desktop\C#\Tema6\ConsoleInvaders (ejercicio 6.3.4)\bin\Debug\net8.0\ConsoleInvaders (ejercicio 6.3.4 - 6.3.6).deps.json
+C:\Users\Victor Aracil\Desktop\C#\Tema6\ConsoleInvaders (ejercicio 6.3.4)\bin\Debug\net8.0\ConsoleInvaders (ejercicio 6.3.4 - 6.3.6).runtimeconfig.json
+C:\Users\Victor Aracil\Desktop\C#\Tema6\ConsoleInvaders (ejercicio 6.3.4)\bin\Debug\net8.0\ConsoleInvaders (ejercicio 6.3.4 - 6.3.6).dll
+C:\Users\Victor Aracil\Desktop\C#\Tema6\ConsoleInvaders (ejercicio 6.3.4)\bin\Debug\net8.0\ConsoleInvaders (ejercicio 6.3.4 - 6.3.6).pdb
+C:\Users\Victor Aracil\Desktop\C#\Tema6\ConsoleInvaders (ejercicio 6.3.4)\obj\Debug\net8.0\ConsoleInvaders (ejercicio 6.3.4 - 6.3.6).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Aracil\Desktop\C#\Tema6\ConsoleInvaders (ejercicio 6.3.4)\obj\Debug\net8.0\ConsoleInvaders (ejercicio 6.3.4 - 6.3.6).AssemblyInfoInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema6\ConsoleInvaders (ejercicio 6.3.4)\obj\Debug\net8.0\ConsoleInvaders (ejercicio 6.3.4 - 6.3.6).AssemblyInfo.cs
+C:\Users\Victor Aracil\Desktop\C#\Tema6\ConsoleInvaders (ejercicio 6.3.4)\obj\Debug\net8.0\ConsoleInvaders (ejercicio 6.3.4 - 6.3.6).csproj.CoreCompileInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema6\ConsoleInvaders (ejercicio 6.3.4)\obj\Debug\net8.0\ConsoleInvaders (ejercicio 6.3.4 - 6.3.6).sourcelink.json
+C:\Users\Victor Aracil\Desktop\C#\Tema6\ConsoleInvaders (ejercicio 6.3.4)\obj\Debug\net8.0\ConsoleInvaders (ejercicio 6.3.4 - 6.3.6).dll
+C:\Users\Victor Aracil\Desktop\C#\Tema6\ConsoleInvaders (ejercicio 6.3.4)\obj\Debug\net8.0\refint\ConsoleInvaders (ejercicio 6.3.4 - 6.3.6).dll
+C:\Users\Victor Aracil\Desktop\C#\Tema6\ConsoleInvaders (ejercicio 6.3.4)\obj\Debug\net8.0\ConsoleInvaders (ejercicio 6.3.4 - 6.3.6).pdb
+C:\Users\Victor Aracil\Desktop\C#\Tema6\ConsoleInvaders (ejercicio 6.3.4)\obj\Debug\net8.0\ConsoleInvaders (ejercicio 6.3.4 - 6.3.6).genruntimeconfig.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema6\ConsoleInvaders (ejercicio 6.3.4)\obj\Debug\net8.0\ref\ConsoleInvaders (ejercicio 6.3.4 - 6.3.6).dll

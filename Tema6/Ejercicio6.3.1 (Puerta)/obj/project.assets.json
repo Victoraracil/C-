@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Ejercicio6.3.1 (Puerta)\\Ejercicio6.3.1 (Puerta).csproj",
-      "projectName": "Ejercicio6.3.1 (Puerta)",
-      "projectPath": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Ejercicio6.3.1 (Puerta)\\Ejercicio6.3.1 (Puerta).csproj",
+      "projectUniqueName": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Ejercicio6.3.1 (Puerta)\\Puerta (Ejercicio6.3.1).csproj",
+      "projectName": "Puerta (Ejercicio6.3.1)",
+      "projectPath": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Ejercicio6.3.1 (Puerta)\\Puerta (Ejercicio6.3.1).csproj",
       "packagesPath": "C:\\Users\\Victor Aracil\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Ejercicio6.3.1 (Puerta)\\obj\\",
       "projectStyle": "PackageReference",
