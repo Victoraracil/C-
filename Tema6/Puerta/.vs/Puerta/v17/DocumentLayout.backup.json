@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Ejercicio6.3.1 (Puerta)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E3FE51-F833-45A5-8896-52FAC1376351}|Puerta (Ejercicio6.3.1).csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\ejercicio6.3.1 (puerta)\\porton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E3FE51-F833-45A5-8896-52FAC1376351}|Puerta (Ejercicio6.3.1).csproj|solutionrelative:porton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E3FE51-F833-45A5-8896-52FAC1376351}|Puerta (Ejercicio6.3.1).csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\ejercicio6.3.1 (puerta)\\puerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E3FE51-F833-45A5-8896-52FAC1376351}|Puerta (Ejercicio6.3.1).csproj|solutionrelative:puerta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E3FE51-F833-45A5-8896-52FAC1376351}|Puerta (Ejercicio6.3.1).csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\ejercicio6.3.1 (puerta)\\programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E3FE51-F833-45A5-8896-52FAC1376351}|Puerta (Ejercicio6.3.1).csproj|solutionrelative:programa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Porton.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Ejercicio6.3.1 (Puerta)\\Porton.cs",
+              "RelativeDocumentMoniker": "Porton.cs",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Ejercicio6.3.1 (Puerta)\\Porton.cs",
+              "RelativeToolTip": "Porton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:40:01.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Puerta.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Ejercicio6.3.1 (Puerta)\\Puerta.cs",
+              "RelativeDocumentMoniker": "Puerta.cs",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Ejercicio6.3.1 (Puerta)\\Puerta.cs",
+              "RelativeToolTip": "Puerta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:39:19.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Programa.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Ejercicio6.3.1 (Puerta)\\Programa.cs",
+              "RelativeDocumentMoniker": "Programa.cs",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Ejercicio6.3.1 (Puerta)\\Programa.cs",
+              "RelativeToolTip": "Programa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T17:33:44.779Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
