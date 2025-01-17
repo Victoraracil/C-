@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "PruebaDeCoche.cs",
               "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Coche\\PruebaDeCoche.cs",
               "RelativeToolTip": "PruebaDeCoche.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-09T16:24:48.745Z",
               "EditorCaption": ""
@@ -49,9 +49,10 @@
               "RelativeDocumentMoniker": "Vehiculo.cs",
               "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Coche\\Vehiculo.cs",
               "RelativeToolTip": "Vehiculo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwEMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T15:26:24.88Z"
+              "WhenOpened": "2025-01-14T15:26:24.88Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -61,9 +62,10 @@
               "RelativeDocumentMoniker": "Moto.cs",
               "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Coche\\Moto.cs",
               "RelativeToolTip": "Moto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T15:28:13.011Z"
+              "WhenOpened": "2025-01-14T15:28:13.011Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -73,9 +75,10 @@
               "RelativeDocumentMoniker": "Coche.cs",
               "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Coche\\Coche.cs",
               "RelativeToolTip": "Coche.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T16:23:01.936Z"
+              "WhenOpened": "2025-01-09T16:23:01.936Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro (ejercicio 6.3.3)\\",
+  "WorkspaceRootPath": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro (ejercicio 6.3.3)..csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\libro (ejercicio 6.3.3)\\pruebadelibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro (ejercicio 6.3.3)..csproj|solutionrelative:pruebadelibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\libro\\pruebadelibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro.csproj|solutionrelative:pruebadelibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro (ejercicio 6.3.3)..csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\libro (ejercicio 6.3.3)\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro (ejercicio 6.3.3)..csproj|solutionrelative:libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\libro\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro.csproj|solutionrelative:documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro (ejercicio 6.3.3)..csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\libro (ejercicio 6.3.3)\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro (ejercicio 6.3.3)..csproj|solutionrelative:documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\libro\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro.csproj|solutionrelative:libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "PruebaDeLibro.cs",
-              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro (ejercicio 6.3.3)\\PruebaDeLibro.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro\\PruebaDeLibro.cs",
               "RelativeDocumentMoniker": "PruebaDeLibro.cs",
-              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro (ejercicio 6.3.3)\\PruebaDeLibro.cs",
-              "RelativeToolTip": "PruebaDeLibro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro\\PruebaDeLibro.cs*",
+              "RelativeToolTip": "PruebaDeLibro.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T17:57:38.148Z",
               "IsPinned": true,
@@ -40,13 +40,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Libro.cs",
-              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro (ejercicio 6.3.3)\\Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro\\Libro.cs",
               "RelativeDocumentMoniker": "Libro.cs",
-              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro (ejercicio 6.3.3)\\Libro.cs",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro\\Libro.cs",
               "RelativeToolTip": "Libro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T17:52:58.387Z",
               "IsPinned": true,
@@ -54,15 +54,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Documento.cs",
-              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro (ejercicio 6.3.3)\\Documento.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro\\Documento.cs",
               "RelativeDocumentMoniker": "Documento.cs",
-              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro (ejercicio 6.3.3)\\Documento.cs",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro\\Documento.cs",
               "RelativeToolTip": "Documento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwAMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T14:59:49.882Z"
+              "WhenOpened": "2025-01-14T14:59:49.882Z",
+              "EditorCaption": ""
             }
           ]
         }

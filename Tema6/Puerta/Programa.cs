@@ -1,6 +1,8 @@
 ﻿using System;
-/*Crea un proyecto con las clases Puerta, Portón y Ejemplo_06_04a. Prueba
-que todo funciona correctamente.*/
+/*(6.5.1) Crea un proyecto a partir del ejemplo 06.05a, en el que cada clase esté en
+un fichero separado. Como podrás comprobar, ahora necesitarás un "using
+System" en cada fuente que vaya a utilizar la Consola.
+(en vez de crear un proyecto nuevo, se ha modificado el proyecto puerta del apartado anterior)*/
 class Programa
 {
     static void Main()

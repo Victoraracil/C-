@@ -1,27 +1,37 @@
 ﻿using System;
-    /*Crea una variante ampliada del ejercicio 6.3.2. En ella, la clase Persona no
-    cambia. Se creará una nueva clase PersonaInglesa, en el fichero
-    "personaInglesa.cs". Esta clase deberá heredar las características de la clase
-    "Persona", y añadir un método "TomarTe", de tipo void, que escribirá en pantalla
-    "Estoy tomando té". Crea también una clase llamada PruebaPersona2, en el
-    fichero "pruebaPersona2.cs". Esta clase deberá contener sólo la función Main, que
-    creará dos objetos de tipo Persona y uno de tipo PersonaInglesa, les asignará un
-    nombre, les pedirá que saluden y pedirá a la persona inglesa que tome té.*/
+/*A partir de las clases del ejercicio 6.6.1, añade a la clase "Persona" un nuevo
+método Saludar, que reciba un parámetro, que será el texto que debe decir esa
+persona cuando salude*/
 class PruebaPersona
 {
     static void Main()
     {
         Persona p = new Persona();
-        p.SetNombre("Pepe");
-        p.Saludar();
-        Console.WriteLine();
-        Persona p2 = new Persona();
-        p2.SetNombre("Juan");
-        p2.Saludar();
-        Console.WriteLine();
+        PersonaItaliana p2 = new PersonaItaliana();
         PersonaInglesa p3 = new PersonaInglesa();
+        Console.WriteLine("Escibe el nombre de la persona inglesa:");
+        string nombre = Console.ReadLine();
+        PersonaInglesa p4 = new PersonaInglesa(nombre);
+        
+        
+        p.SetNombre("Pepe");
+        p.Saludar("Hola, soy Pepe");
+      
+        Console.WriteLine();
+
+        p2.SetNombre("Musolini");
+        p2.SaludoItaliano("Musolini");
+
+        Console.WriteLine();
+
         p3.SetNombre("John");
-        p3.Saludar();
+        p3.SaludoIngles("John");
         p3.TomarTe();
+
+        Console.WriteLine();
+
+        p4.SetNombre(nombre);
+        p4.SaludoIngles(nombre);
+        p4.TomarTe();
     }
 }

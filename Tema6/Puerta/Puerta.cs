@@ -1,10 +1,14 @@
 ﻿using System;
+/*(6.5.1) Crea un proyecto a partir del ejemplo 06.05a, en el que cada clase esté en
+un fichero separado. Como podrás comprobar, ahora necesitarás un "using
+System" en cada fuente que vaya a utilizar la Consola.
+(en vez de crear un proyecto nuevo, se ha modificado el proyecto puerta del apartado anterior)*/
 class Puerta
 {
-    int ancho; // Ancho en centímetros
-    int alto; // Alto en centímetros
-    int color; // Color en formato RGB
-    bool abierta; // Abierta o cerrada
+    protected int ancho; // Ancho en centímetros
+    protected int alto; // Alto en centímetros
+    protected int color; // Color en formato RGB
+    protected bool abierta; // Abierta o cerrada
     public void Abrir()
     {
         abierta = true;

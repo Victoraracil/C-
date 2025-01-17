@@ -1,11 +1,17 @@
 ﻿using System;
 
-/*Amplía el esqueleto del ConsoleInvaders (ejercicio 6.3.6): Crea una clase
-"Sprite", de la que heredarán "Nave" y "Enemigo". La nueva clase contendrá todos
-los atributos y métodos que son comunes a las antiguas (todos los existentes, por
-ahora). A cambio, verás que tanto la nave como el enemigo tendrán la misma
-“imagen”, pero eso lo solucionaremos pronto.*/
+/*Amplía el esqueleto del ConsoleInvaders (6.6.3): La clase Enemigo tendrá un
+segundo constructor, sin parámetros, que prefijará su posición inicial a (100,80)
+para estas primeras pruebas. La clase Nave tendrá un segundo constructor, con
+parámetros X e Y, para poder colocar la nave en otra posición desde Main. Verás
+que hay código repetitivo en esos dos contructores, pero más adelante lo
+optimizaremos.*/
 class Enemigo : Sprite
 {
- 
+    public Enemigo()
+    {
+        x = 60; y = 5;
+        imagen = "]-["; // ]_[, ].[
+    }
+
 }

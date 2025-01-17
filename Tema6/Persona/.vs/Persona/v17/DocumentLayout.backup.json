@@ -7,12 +7,16 @@
       "RelativeMoniker": "D:0:0:{62B9FE51-3906-4CF7-8F81-FF5C4FE787BC}|Persona.csproj|solutionrelative:pruebapersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{62B9FE51-3906-4CF7-8F81-FF5C4FE787BC}|Persona.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\persona\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B9FE51-3906-4CF7-8F81-FF5C4FE787BC}|Persona.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62B9FE51-3906-4CF7-8F81-FF5C4FE787BC}|Persona.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\persona\\personainglesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{62B9FE51-3906-4CF7-8F81-FF5C4FE787BC}|Persona.csproj|solutionrelative:personainglesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{62B9FE51-3906-4CF7-8F81-FF5C4FE787BC}|Persona.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\persona\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{62B9FE51-3906-4CF7-8F81-FF5C4FE787BC}|Persona.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{62B9FE51-3906-4CF7-8F81-FF5C4FE787BC}|Persona.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\persona\\personaitaliana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62B9FE51-3906-4CF7-8F81-FF5C4FE787BC}|Persona.csproj|solutionrelative:personaitaliana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,31 +26,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PersonaInglesa.cs",
-              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Persona\\PersonaInglesa.cs",
-              "RelativeDocumentMoniker": "PersonaInglesa.cs",
-              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Persona\\PersonaInglesa.cs",
-              "RelativeToolTip": "PersonaInglesa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "PersonaItaliana.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Persona\\PersonaItaliana.cs",
+              "RelativeDocumentMoniker": "PersonaItaliana.cs",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Persona\\PersonaItaliana.cs*",
+              "RelativeToolTip": "PersonaItaliana.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T14:46:37.608Z"
+              "WhenOpened": "2025-01-15T15:32:10.991Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "PersonaInglesa.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Persona\\PersonaInglesa.cs",
+              "RelativeDocumentMoniker": "PersonaInglesa.cs",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Persona\\PersonaInglesa.cs*",
+              "RelativeToolTip": "PersonaInglesa.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T14:46:37.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Persona.cs",
               "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Persona\\Persona.cs",
               "RelativeDocumentMoniker": "Persona.cs",
-              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Persona\\Persona.cs",
-              "RelativeToolTip": "Persona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Persona\\Persona.cs*",
+              "RelativeToolTip": "Persona.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T17:46:43.872Z"
+              "WhenOpened": "2025-01-08T17:46:43.872Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -54,9 +73,9 @@
               "Title": "PruebaPersona.cs",
               "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Persona\\PruebaPersona.cs",
               "RelativeDocumentMoniker": "PruebaPersona.cs",
-              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Persona\\PruebaPersona.cs",
-              "RelativeToolTip": "PruebaPersona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBgAAAAVAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Persona\\PruebaPersona.cs*",
+              "RelativeToolTip": "PruebaPersona.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T17:46:42.302Z",
               "EditorCaption": ""

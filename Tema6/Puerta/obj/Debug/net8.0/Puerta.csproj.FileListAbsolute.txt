@@ -13,3 +13,18 @@ C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio6.3.1 (Puerta)\obj\Debug\net8.0
 C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio6.3.1 (Puerta)\obj\Debug\net8.0\Puerta.pdb
 C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio6.3.1 (Puerta)\obj\Debug\net8.0\Puerta.genruntimeconfig.cache
 C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio6.3.1 (Puerta)\obj\Debug\net8.0\ref\Puerta.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Puerta\bin\Debug\net8.0\Puerta.exe
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Puerta\bin\Debug\net8.0\Puerta.deps.json
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Puerta\bin\Debug\net8.0\Puerta.runtimeconfig.json
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Puerta\bin\Debug\net8.0\Puerta.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Puerta\bin\Debug\net8.0\Puerta.pdb
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Puerta\obj\Debug\net8.0\Puerta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Puerta\obj\Debug\net8.0\Puerta.AssemblyInfoInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Puerta\obj\Debug\net8.0\Puerta.AssemblyInfo.cs
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Puerta\obj\Debug\net8.0\Puerta.csproj.CoreCompileInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Puerta\obj\Debug\net8.0\Puerta.sourcelink.json
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Puerta\obj\Debug\net8.0\Puerta.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Puerta\obj\Debug\net8.0\refint\Puerta.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Puerta\obj\Debug\net8.0\Puerta.pdb
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Puerta\obj\Debug\net8.0\Puerta.genruntimeconfig.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Puerta\obj\Debug\net8.0\ref\Puerta.dll
