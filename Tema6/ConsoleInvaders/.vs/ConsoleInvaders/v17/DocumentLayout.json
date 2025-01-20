@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\ConsoleInvaders\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\consoleinvaders\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|solutionrelative:sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\consoleinvaders\\enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|solutionrelative:enemigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\consoleinvaders\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|solutionrelative:partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\consoleinvaders\\nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|solutionrelative:nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\consoleinvaders\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|solutionrelative:sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\consoleinvaders\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|solutionrelative:partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\consoleinvaders\\bienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,24 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Sprite.cs",
               "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\ConsoleInvaders\\Sprite.cs",
               "RelativeDocumentMoniker": "Sprite.cs",
               "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\ConsoleInvaders\\Sprite.cs",
               "RelativeToolTip": "Sprite.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCIAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T15:14:53.409Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Enemigo.cs",
               "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\ConsoleInvaders\\Enemigo.cs",
               "RelativeDocumentMoniker": "Enemigo.cs",
@@ -68,19 +68,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Nave.cs",
               "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\ConsoleInvaders\\Nave.cs",
               "RelativeDocumentMoniker": "Nave.cs",
               "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\ConsoleInvaders\\Nave.cs",
               "RelativeToolTip": "Nave.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwA0AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T15:25:16.298Z"
+              "WhenOpened": "2025-01-09T15:25:16.298Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Partida.cs",
               "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\ConsoleInvaders\\Partida.cs",
               "RelativeDocumentMoniker": "Partida.cs",
@@ -88,8 +89,7 @@
               "RelativeToolTip": "Partida.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T15:22:58.029Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T15:22:58.029Z"
             },
             {
               "$type": "Document",
