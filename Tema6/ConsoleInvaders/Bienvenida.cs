@@ -17,6 +17,7 @@ class Bienvanida
             if (tecla.Key == ConsoleKey.Enter)
             {
                 salir = false;
+                Console.Clear();
             }
 
         } while (tecla.Key != ConsoleKey.Escape && tecla.Key != ConsoleKey.Enter);

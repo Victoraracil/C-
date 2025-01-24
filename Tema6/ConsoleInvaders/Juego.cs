@@ -22,6 +22,7 @@ class Juego
                 Partida p = new Partida();
                 p.LanzarPartida();
             }
-        }while (b.GetSalir() == true);        
+        }while (b.GetSalir() == true);
+        
     }
 }

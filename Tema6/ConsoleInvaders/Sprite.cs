@@ -1,46 +1,47 @@
 ﻿using System;
-/*Amplía el esqueleto del ConsoleInvaders (ejercicio 6.4.4): Amplía la clase
-Nave con un método "MoverDerecha", que aumente su X en 10 unidades, y un
-"MoverIzquierda", que disminuya su X en 10 unidades. Necesitarás hacer que esos
-atributos sean "protected" en la clase Sprite. El método "Lanzar" de la clase Partida
-no esperará hasta el usuario pulse Intro sin hacer nada, sino que ahora usará un
-do-while que compruebe si pulsa ESC (para salir) o flecha izquierda o flecha
-derecha (para mover la nave: sus códigos son ConsoleKey.LeftArrow y ConsoleKey.
-RightArrow). Si se pulsan las flechas, la nave se moverá a un lado o a otro (con los
-métodos que acabas de crear). Al principio de cada pasada del do-while se borrará
-la pantalla ("Console.Clear();")*/
+/*Crea una versión alternativa del esqueleto del ConsoleInvaders (6.7.3) en la
+que el constructor de Sprite escriba en pantalla "Creando sprite" y los
+constructores de Nave escriba en pantalla "Creando nave en posición prefijada" o
+"Creando nave en posición indicada por el usuario", según el caso (deberás hacer
+una pausa para poder verlo antes de que se borre la pantalla). Comprueba su
+funcionamiento.*/
 
-class Sprite
+class Sprite    
 {
     protected int x = 40;
     protected int y = 30;
     protected string imagen = "/\\";
-
-    public void MoverA(string mover)
+    public Sprite()
     {
+            
+        int x = 40;
+        int y = 30;
+        string imagen = "/\\";
+    }
+
+
+
+    public void MoverA(int x1, int y1)// modificar con dos parametros
+    {
+
+        if (x - 1 == 0)
+        {
+            Borrar();
+            x++;
+        }
+        else if (x + this.imagen.Length  == 120)
+        {
+            Borrar();
+            x--;
+        }
+        else
+        {
+            Borrar();
+            x = x + (x1);
+            Console.SetCursorPosition(this.x, this.y);
+            Console.Write(imagen);
+        }
        
-        if (mover == "derecha")
-        {
-            if (x - 1 == 0)
-            {
-
-            }
-            else
-            {
-                x--;
-            }
-        }
-        if (mover == "izquierda")
-        {
-            if (x + 3 == 120)
-            {
-
-            }
-            else
-            {
-                x++;
-            }
-        }
     }
     public void Dibujar()
     {
@@ -49,5 +50,9 @@ class Sprite
 
 
     }
+    public void Borrar()
+    {
+        Console.SetCursorPosition(this.x, this.y);
+        Console.Write(new String(' ' ,this.imagen.Length));
+    }
 }
-

@@ -1,0 +1,15 @@
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Trabajador\obj\Debug\net8.0\Trabajador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Trabajador\obj\Debug\net8.0\Trabajador.AssemblyInfoInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Trabajador\obj\Debug\net8.0\Trabajador.AssemblyInfo.cs
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Trabajador\obj\Debug\net8.0\Trabajador.csproj.CoreCompileInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Trabajador\obj\Debug\net8.0\Trabajador.sourcelink.json
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Trabajador\bin\Debug\net8.0\Trabajador.exe
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Trabajador\bin\Debug\net8.0\Trabajador.deps.json
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Trabajador\bin\Debug\net8.0\Trabajador.runtimeconfig.json
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Trabajador\bin\Debug\net8.0\Trabajador.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Trabajador\bin\Debug\net8.0\Trabajador.pdb
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Trabajador\obj\Debug\net8.0\Trabajador.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Trabajador\obj\Debug\net8.0\refint\Trabajador.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Trabajador\obj\Debug\net8.0\Trabajador.pdb
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Trabajador\obj\Debug\net8.0\Trabajador.genruntimeconfig.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Trabajador\obj\Debug\net8.0\ref\Trabajador.dll

@@ -1,11 +1,16 @@
 ﻿using System;
-/*Crea dos nuevos métodos en la clase Vehiculo (ejercicio 6.6.4): uno llamado
-Circular, que fijará su "velocidad" (un nuevo atributo) a 50, y otro Circular(v), que
-fijará su velocidad al valor que se indique como parámetro.*/
+/*Crea una versión alternativa de las clases Vehiculo, Coche, Moto (6.7.4), que
+te avise del momento en que se entra a cada constructor. Crea un programa de
+prueba que defina un coche y una moto, y comprueba su funcionamiento.*/
 class Moto : Vehiculo
 {
     public Moto()
     {
+        Console.WriteLine("Creando moto...");
+        this.marca = "Vespa";
+        this.modelo = "Vespino";
+        this.cilindrada = 45;
+        this.potencia = 40;
         SetRuedas(2);
     }
 }

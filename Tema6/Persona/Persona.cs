@@ -5,19 +5,15 @@ persona cuando salude*/
 
 class Persona
 {
-    protected string nombre;
+    public string nombre {  get; set; }
 
-    public Persona()
-    {
-
-    }
     public void SetNombre(string nombre)
     {
         this.nombre = nombre;
     }
     public void Saludar(string texto)
     {
-        Console.WriteLine(texto);
+        Console.WriteLine("Hola, soy " + texto);
 
     }
 }

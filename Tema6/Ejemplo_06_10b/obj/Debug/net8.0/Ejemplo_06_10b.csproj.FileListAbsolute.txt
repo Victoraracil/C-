@@ -1,0 +1,15 @@
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejemplo_06_10b\bin\Debug\net8.0\Ejemplo_06_10b.exe
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejemplo_06_10b\bin\Debug\net8.0\Ejemplo_06_10b.deps.json
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejemplo_06_10b\bin\Debug\net8.0\Ejemplo_06_10b.runtimeconfig.json
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejemplo_06_10b\bin\Debug\net8.0\Ejemplo_06_10b.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejemplo_06_10b\bin\Debug\net8.0\Ejemplo_06_10b.pdb
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejemplo_06_10b\obj\Debug\net8.0\Ejemplo_06_10b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejemplo_06_10b\obj\Debug\net8.0\Ejemplo_06_10b.AssemblyInfoInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejemplo_06_10b\obj\Debug\net8.0\Ejemplo_06_10b.AssemblyInfo.cs
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejemplo_06_10b\obj\Debug\net8.0\Ejemplo_06_10b.csproj.CoreCompileInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejemplo_06_10b\obj\Debug\net8.0\Ejemplo_06_10b.sourcelink.json
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejemplo_06_10b\obj\Debug\net8.0\Ejemplo_06_10b.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejemplo_06_10b\obj\Debug\net8.0\refint\Ejemplo_06_10b.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejemplo_06_10b\obj\Debug\net8.0\Ejemplo_06_10b.pdb
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejemplo_06_10b\obj\Debug\net8.0\Ejemplo_06_10b.genruntimeconfig.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejemplo_06_10b\obj\Debug\net8.0\ref\Ejemplo_06_10b.dll

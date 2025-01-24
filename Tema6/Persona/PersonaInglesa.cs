@@ -5,14 +5,7 @@ persona cuando salude*/
 
 class PersonaInglesa : Persona
 {
-    public PersonaInglesa()
-    {
-        this.nombre = "John";
-    }
-    public PersonaInglesa(string nombre)
-    {
-        this.nombre = nombre;
-    }
+   
     public void TomarTe()
     {
         Console.WriteLine("Estoy tomando té");

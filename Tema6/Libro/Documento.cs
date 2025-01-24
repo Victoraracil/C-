@@ -1,9 +1,15 @@
 ﻿using System;
-/*Amplía el proyecto del ejercicio 6.6.2 (Libro): la clase Libro tendrá un
-segundo constructor que permita dar valores al autor y el título, pero no a la
-ubicación, que tomará el valor por defecto "No detallada".*/
+/*Crea una variante del proyecto Libro (ejercicio 6.7.2) en la que el
+constructor de Documento escriba en pantalla "Creando documento" y el
+constructor de Libro escriba en pantalla "Creando libro". Comprueba su
+funcionamiento.*/
 class Documento
 {
+    public Documento()
+    {
+        Console.WriteLine("Creando documento...");
+    }
+
     protected string autor;
     protected string titulo;
     protected string ubicacion;

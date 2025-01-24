@@ -22,12 +22,14 @@ class PruebaDeLibro
         autor = Console.ReadLine();
         Console.WriteLine("Introduce la ubicacion de tu libro:");
         ubicacion = Console.ReadLine();
+        Console.WriteLine();
         Libro l = new Libro(titulo, autor, ubicacion);
-        Libro l2 = new Libro();
         Console.WriteLine();
         l.MostrarDocumento();
         l.SetPaginas();
         l.MostrarPaginas();
+        Console.WriteLine();
+        Libro l2 = new Libro();
         Console.WriteLine();
         l2.MostrarDocumento();
     }

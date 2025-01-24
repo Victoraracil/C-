@@ -10,15 +10,16 @@ class Partida
     int x = 1;
     public void LanzarPartida()
     {
-        ConsoleKeyInfo tecla;
+        ConsoleKeyInfo tecla; 
         Nave nave = new Nave();
+        Enemigo enemigo = new Enemigo();
+        nave.Dibujar();
+        enemigo.Dibujar();
+        
+        
         do
         {
-            Console.Clear();
-            nave.Dibujar();
-            Enemigo enemigo = new Enemigo();
-            enemigo.Dibujar();
-            Console.WriteLine("");
+            Console.Write("");
             tecla = Console.ReadKey();
             if (tecla.Key == ConsoleKey.LeftArrow)
             {
