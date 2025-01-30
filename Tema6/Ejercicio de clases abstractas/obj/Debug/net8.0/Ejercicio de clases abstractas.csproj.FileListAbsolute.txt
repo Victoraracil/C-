@@ -1,0 +1,15 @@
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio de clases abstractas\bin\Debug\net8.0\Ejercicio de clases abstractas.exe
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio de clases abstractas\bin\Debug\net8.0\Ejercicio de clases abstractas.deps.json
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio de clases abstractas\bin\Debug\net8.0\Ejercicio de clases abstractas.runtimeconfig.json
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio de clases abstractas\bin\Debug\net8.0\Ejercicio de clases abstractas.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio de clases abstractas\bin\Debug\net8.0\Ejercicio de clases abstractas.pdb
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio de clases abstractas\obj\Debug\net8.0\Ejercicio de clases abstractas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio de clases abstractas\obj\Debug\net8.0\Ejercicio de clases abstractas.AssemblyInfoInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio de clases abstractas\obj\Debug\net8.0\Ejercicio de clases abstractas.AssemblyInfo.cs
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio de clases abstractas\obj\Debug\net8.0\Ejercicio de clases abstractas.csproj.CoreCompileInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio de clases abstractas\obj\Debug\net8.0\Ejercicio de clases abstractas.sourcelink.json
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio de clases abstractas\obj\Debug\net8.0\Ejercicio de clases abstractas.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio de clases abstractas\obj\Debug\net8.0\refint\Ejercicio de clases abstractas.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio de clases abstractas\obj\Debug\net8.0\Ejercicio de clases abstractas.pdb
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio de clases abstractas\obj\Debug\net8.0\Ejercicio de clases abstractas.genruntimeconfig.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio de clases abstractas\obj\Debug\net8.0\ref\Ejercicio de clases abstractas.dll

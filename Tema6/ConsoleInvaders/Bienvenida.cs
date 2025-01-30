@@ -13,6 +13,7 @@ class Bienvanida
             if (tecla.Key == ConsoleKey.Escape)
             {
                 salir = true;
+                Environment.Exit(0); // Termina la ejecución del programa
             }
             if (tecla.Key == ConsoleKey.Enter)
             {
