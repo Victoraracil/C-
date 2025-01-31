@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel;
 /*Amplía el esqueleto del ConsoleInvaders (6.7.3), para que haya 10
 enemigos en una misma fila (todos compartirán una misma coordenada Y, pero
 tendrán distinta coordenada X). Necesitarás usar el constructor en la clase
@@ -9,7 +10,15 @@ class Sprite
     protected int x = 40;
     protected int y = 20;
     protected string imagen = "/\\";
-    public string disparo = "|";
+    protected ConsoleColor color = ConsoleColor.White;
+    public Sprite(int x, int y, string imagen = "<>", ConsoleColor color = ConsoleColor.White)
+    {
+        this.x = x;
+        this.y = y;
+        this.imagen = imagen;
+        this.color = color;
+
+    }
 
     public void MoverA(int x1, int y1)// modificar con dos parametros
     {
@@ -30,10 +39,13 @@ class Sprite
         }
        
     }
-    public void Dibujar(string imagen)
+    public void Dibujar()
     {
+        ConsoleColor colorAnterior = Console.ForegroundColor;
+        Console.ForegroundColor = this.color;
         Console.SetCursorPosition(this.x, this.y);
         Console.Write(imagen);
+        Console.ForegroundColor = colorAnterior;
 
 
     }
@@ -44,14 +56,5 @@ class Sprite
         Console.Write(new String(' ' ,this.imagen.Length));
     }
 
-    public void Disparar()
-    {
-
-        disparo = "|";
-        y--;
-        Console.SetCursorPosition(this.x, this.y);
-        Borrar();
-        Dibujar(imagen);
-
-    }
+    
 }

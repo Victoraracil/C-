@@ -11,81 +11,62 @@ siguiente apartado*/
 class Partida
 {
     int x = 1;
-    Nave nave = new Nave();
-    Enemigo enemigo = new Enemigo(37, 5);
-    BloqueEnemigos bloqueEnemigos = new BloqueEnemigos(37, 5);
-    Disparo disparo = new Disparo(40,27);
+    
+    //Disparo disparo = new Disparo(1,1);
 
 
     public void LanzarPartida()
     {
-        Console.SetWindowSize(120, 29);
-        bloqueEnemigos.CrearBloque();
-        DibujarElementos();
-        ComprobarTeclas();
-    }
 
-    public void ComprobarTeclas()
-    {
-        ConsoleKeyInfo tecla;
+        Console.SetWindowSize(120, 29);
+        Nave nave = new Nave(60, 28, @"/!\", ConsoleColor.White);
+        BloqueEnemigos bloqueEnemigos = new BloqueEnemigos();
+        
         do
         {
-            if (Console.KeyAvailable)
-            {
-                tecla = Console.ReadKey();
-            }
-            else
-            {
-                tecla = new ConsoleKeyInfo();
-                MoverElementos(0);
-            }
-            
-            if (tecla.Key == ConsoleKey.LeftArrow)
-            {
-               MoverElementos(1);
-            }
-            if (tecla.Key == ConsoleKey.RightArrow)
-            {
-                MoverElementos(2);
-            }
-            if (tecla.Key == ConsoleKey.Spacebar)
-            {
-                MoverElementos(4);
-              
-            }
+            Thread.Sleep(100);
+            ComprobarColisiones();
+            DibujarElementos(nave, bloqueEnemigos);
+            ComprobarTeclas(nave);
         } while (x == 1);
     }
 
-    public void MoverElementos(int i)
+    public void ComprobarTeclas(Nave nave)
     {
-        bloqueEnemigos.MoverBloque();
+        ConsoleKeyInfo tecla;
 
-        if (i == 1)
+
+        if (Console.KeyAvailable)
         {
-            nave.MoverDerecha();
-        }
-        if (i == 2)
-        {
-            nave.MoverIzquierda();
-        }
-        if (i == 4)
-        {
-            do
+            tecla = Console.ReadKey();
+            if (tecla.Key == ConsoleKey.LeftArrow)
             {
-                disparo.MoverArriba();
-            } while (x > 0);
+                nave.MoverDerecha();
+            }
+            if (tecla.Key == ConsoleKey.RightArrow)
+            {
+                nave.MoverIzquierda();
+            }
+            if (tecla.Key == ConsoleKey.Spacebar)
+            {
+                //disparar
+            }
         }
+        
+
+        
     }
+
+    
     public void ComprobarColisiones()
     {
 
     }
 
-    public void DibujarElementos()
+    public void DibujarElementos(Nave nave, BloqueEnemigos bloqueEnemigos)
     {
-        nave.Dibujar(@"/!\");
+        nave.Dibujar();
         bloqueEnemigos.DibujarBloque();
-
 
     }
 }

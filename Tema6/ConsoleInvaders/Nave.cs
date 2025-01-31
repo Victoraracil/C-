@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Reflection;
 
 /*Crea una versión alternativa del esqueleto del ConsoleInvaders (6.7.3) en la
 que el constructor de Sprite escriba en pantalla "Creando sprite" y los
@@ -8,23 +9,22 @@ una pausa para poder verlo antes de que se borre la pantalla). Comprueba su
 funcionamiento.*/
 class Nave : Sprite
 {
-    public Nave()
+    public Nave(int x, int y, string imagen, ConsoleColor color) : base(x, y, imagen, color)
     {
-        x = 60; y = 28;
-        imagen = @"/!\";
+        
     }
+    
    
     public void MoverDerecha()
     {
         MoverA(-1, this.y);
-        Dibujar(imagen);
     }
     public void MoverIzquierda()
     {
         MoverA(1, this.y);
-        Dibujar(imagen);
     }
+    
 
-  
+
 
 }

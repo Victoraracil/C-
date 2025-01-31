@@ -11,25 +11,23 @@ planteamiento que elijas), no te preocupes por ahora, lo solucionaremos en el
 siguiente apartado*/
 class Enemigo : Sprite
 {
-    public Enemigo(int x, int y)
+    public Enemigo(int x, int y, string imagen, ConsoleColor color) : base(x, y, imagen, color)
     {
-        imagen = "]-["; // ]_[ , ].[ , ]>-<[ , [_____]
+
     }
     public void MoverIzquierda()
     {
         MoverA(1, 0);
-        Dibujar(imagen);
     }
 
     public void MoverDerecha()
     {
         MoverA(-1, 0);
-        Dibujar(imagen);
     }   
 
-    public void Desaparecer()
+    /*public void Desaparecer()
     {
         Borrar();
-    }
+    }*/
 
 }

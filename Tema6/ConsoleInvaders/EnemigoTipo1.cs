@@ -2,9 +2,10 @@
 
 class EnemigoTipo1 : Enemigo
 {
-    public EnemigoTipo1(int x, int y) : base(x, y)
+    public string imagen = "]_[";
+
+    public EnemigoTipo1(int x, int y, string imagen, ConsoleColor color) : base(x, y, imagen, color)
     {
         this.x = x; this.y = y;
     }
-    public string imagen = "]_[";
 } 
