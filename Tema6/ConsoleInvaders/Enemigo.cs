@@ -29,7 +29,7 @@ class Enemigo : Sprite
 
     public void Desaparecer()
     {
-
+        Borrar();
     }
 
 }

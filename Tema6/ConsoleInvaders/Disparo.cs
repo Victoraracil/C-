@@ -10,12 +10,12 @@ class Disparo : Sprite
     }
     public void MoverArriba()
     {
-        MoverA(0, -1);
+        MoverA(this.x, -1);
         Dibujar(imagen);
     }
     public void MoverAbajo()
     {
-        MoverA(0, 1);
+        MoverA(this.x, 1);
         Dibujar(imagen);
     }
     public void Desaparecer()

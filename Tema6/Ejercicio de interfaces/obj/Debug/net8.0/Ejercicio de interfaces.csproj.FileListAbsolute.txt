@@ -13,3 +13,18 @@ C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio de interfaces\obj\Debug\net8.0
 C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio de interfaces\obj\Debug\net8.0\Ejercicio de interfaces.pdb
 C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio de interfaces\obj\Debug\net8.0\Ejercicio de interfaces.genruntimeconfig.cache
 C:\Users\Victor Aracil\Desktop\C#\Tema6\Ejercicio de interfaces\obj\Debug\net8.0\ref\Ejercicio de interfaces.dll
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Ejercicio de interfaces\bin\Debug\net8.0\Ejercicio de interfaces.exe
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Ejercicio de interfaces\bin\Debug\net8.0\Ejercicio de interfaces.deps.json
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Ejercicio de interfaces\bin\Debug\net8.0\Ejercicio de interfaces.runtimeconfig.json
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Ejercicio de interfaces\bin\Debug\net8.0\Ejercicio de interfaces.dll
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Ejercicio de interfaces\bin\Debug\net8.0\Ejercicio de interfaces.pdb
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Ejercicio de interfaces\obj\Debug\net8.0\Ejercicio de interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Ejercicio de interfaces\obj\Debug\net8.0\Ejercicio de interfaces.AssemblyInfoInputs.cache
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Ejercicio de interfaces\obj\Debug\net8.0\Ejercicio de interfaces.AssemblyInfo.cs
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Ejercicio de interfaces\obj\Debug\net8.0\Ejercicio de interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Ejercicio de interfaces\obj\Debug\net8.0\Ejercicio de interfaces.sourcelink.json
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Ejercicio de interfaces\obj\Debug\net8.0\Ejercicio de interfaces.dll
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Ejercicio de interfaces\obj\Debug\net8.0\refint\Ejercicio de interfaces.dll
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Ejercicio de interfaces\obj\Debug\net8.0\Ejercicio de interfaces.pdb
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Ejercicio de interfaces\obj\Debug\net8.0\Ejercicio de interfaces.genruntimeconfig.cache
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Ejercicio de interfaces\obj\Debug\net8.0\ref\Ejercicio de interfaces.dll

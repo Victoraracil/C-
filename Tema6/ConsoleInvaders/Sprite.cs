@@ -9,7 +9,8 @@ class Sprite
     protected int x = 40;
     protected int y = 20;
     protected string imagen = "/\\";
-    
+    public string disparo = "|";
+
     public void MoverA(int x1, int y1)// modificar con dos parametros
     {
 
@@ -17,6 +18,10 @@ class Sprite
         {
             Borrar();
             x = x + (x1);
+        }
+        if (y + y1 >= 0 && y + y1 <= 29)
+        {
+            Borrar();
             y = y + (y1);
         }
        
@@ -39,14 +44,14 @@ class Sprite
         Console.Write(new String(' ' ,this.imagen.Length));
     }
 
-    /*public void Disparar()
+    public void Disparar()
     {
-        
-        imagen = "|";
+
+        disparo = "|";
         y--;
         Console.SetCursorPosition(this.x, this.y);
         Borrar();
         Dibujar(imagen);
 
-    }*/
+    }
 }

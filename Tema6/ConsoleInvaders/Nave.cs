@@ -16,12 +16,12 @@ class Nave : Sprite
    
     public void MoverDerecha()
     {
-        MoverA(-1, 0);
+        MoverA(-1, this.y);
         Dibujar(imagen);
     }
     public void MoverIzquierda()
     {
-        MoverA(1, 0);
+        MoverA(1, this.y);
         Dibujar(imagen);
     }
 

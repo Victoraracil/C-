@@ -1,22 +1,41 @@
 ﻿using System;
+
+
+// Implementación de la clase Coche
 class Coche : IVehiculo
 {
-    public Coche()
+    public string Marca { get; set; }
+    public string Modelo { get; set; }
+    public int Gasolina { get; set; }
+
+    public Coche(string marca, string modelo, int gasolina)
     {
-        string marca = "Seat";
-        string modelo = "Ibiza";
-        int gasolina = 20;
-        Conducir();
-        Repostar(gasolina);
+        Marca = marca;
+        Modelo = modelo;
+        Gasolina = gasolina;
     }
 
     public void Conducir()
     {
-        Console.WriteLine("Conduciendo coche");
+        if (Gasolina > 0)
+        {
+            Console.WriteLine($"Conduciendo {Marca} {Modelo} - Gasolina restante: {Gasolina}");
+            Gasolina--;
+        }
+        else
+        {
+            Console.WriteLine($"No hay gasolina en {Marca} {Modelo}.");
+        }
     }
-    public void Repostar(int x)
+
+    public void Repostar(int cantidad)
     {
-        Console.WriteLine("Repostando coche");
+        Gasolina += cantidad;
+        Console.WriteLine($"Repostado {cantidad} litros. Gasolina actual: {Gasolina}");
+    }
+
+    public override string ToString()
+    {
+        return $"Coche: {Marca} {Modelo}, Gasolina: {Gasolina}";
     }
 }
-

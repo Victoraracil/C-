@@ -14,7 +14,7 @@ class Partida
     Nave nave = new Nave();
     Enemigo enemigo = new Enemigo(37, 5);
     BloqueEnemigos bloqueEnemigos = new BloqueEnemigos(37, 5);
-    Disparo disparo = new Disparo(1,1);
+    Disparo disparo = new Disparo(40,27);
 
 
     public void LanzarPartida()
@@ -73,7 +73,7 @@ class Partida
             do
             {
                 disparo.MoverArriba();
-            } while (disparo.y > 0);
+            } while (x > 0);
         }
     }
     public void ComprobarColisiones()

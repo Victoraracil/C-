@@ -13,3 +13,18 @@ C:\Users\Victor Aracil\Desktop\C#\Tema6\ConsoleInvaders\obj\Debug\net8.0\refint\
 C:\Users\Victor Aracil\Desktop\C#\Tema6\ConsoleInvaders\obj\Debug\net8.0\ConsoleInvaders.pdb
 C:\Users\Victor Aracil\Desktop\C#\Tema6\ConsoleInvaders\obj\Debug\net8.0\ConsoleInvaders.genruntimeconfig.cache
 C:\Users\Victor Aracil\Desktop\C#\Tema6\ConsoleInvaders\obj\Debug\net8.0\ref\ConsoleInvaders.dll
+C:\Users\Mumponet2006\Desktop\C#\Tema6\ConsoleInvaders\bin\Debug\net8.0\ConsoleInvaders.exe
+C:\Users\Mumponet2006\Desktop\C#\Tema6\ConsoleInvaders\bin\Debug\net8.0\ConsoleInvaders.deps.json
+C:\Users\Mumponet2006\Desktop\C#\Tema6\ConsoleInvaders\bin\Debug\net8.0\ConsoleInvaders.runtimeconfig.json
+C:\Users\Mumponet2006\Desktop\C#\Tema6\ConsoleInvaders\bin\Debug\net8.0\ConsoleInvaders.dll
+C:\Users\Mumponet2006\Desktop\C#\Tema6\ConsoleInvaders\bin\Debug\net8.0\ConsoleInvaders.pdb
+C:\Users\Mumponet2006\Desktop\C#\Tema6\ConsoleInvaders\obj\Debug\net8.0\ConsoleInvaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mumponet2006\Desktop\C#\Tema6\ConsoleInvaders\obj\Debug\net8.0\ConsoleInvaders.AssemblyInfoInputs.cache
+C:\Users\Mumponet2006\Desktop\C#\Tema6\ConsoleInvaders\obj\Debug\net8.0\ConsoleInvaders.AssemblyInfo.cs
+C:\Users\Mumponet2006\Desktop\C#\Tema6\ConsoleInvaders\obj\Debug\net8.0\ConsoleInvaders.csproj.CoreCompileInputs.cache
+C:\Users\Mumponet2006\Desktop\C#\Tema6\ConsoleInvaders\obj\Debug\net8.0\ConsoleInvaders.sourcelink.json
+C:\Users\Mumponet2006\Desktop\C#\Tema6\ConsoleInvaders\obj\Debug\net8.0\ConsoleInvaders.dll
+C:\Users\Mumponet2006\Desktop\C#\Tema6\ConsoleInvaders\obj\Debug\net8.0\refint\ConsoleInvaders.dll
+C:\Users\Mumponet2006\Desktop\C#\Tema6\ConsoleInvaders\obj\Debug\net8.0\ConsoleInvaders.pdb
+C:\Users\Mumponet2006\Desktop\C#\Tema6\ConsoleInvaders\obj\Debug\net8.0\ConsoleInvaders.genruntimeconfig.cache
+C:\Users\Mumponet2006\Desktop\C#\Tema6\ConsoleInvaders\obj\Debug\net8.0\ref\ConsoleInvaders.dll
