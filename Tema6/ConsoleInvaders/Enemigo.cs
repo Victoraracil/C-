@@ -9,7 +9,7 @@ sea un string de letras, como "}{" o "XX"). Si estas imágenes no se muestran
 correctamente en pantalla al lanzar una partida (que es posible, según el
 planteamiento que elijas), no te preocupes por ahora, lo solucionaremos en el
 siguiente apartado*/
-class Enemigo : Sprite
+internal class Enemigo : Sprite
 {
     public Enemigo(int x, int y, string imagen, ConsoleColor color) : base(x, y, imagen, color)
     {
@@ -25,9 +25,13 @@ class Enemigo : Sprite
         MoverA(-1, 0);
     }   
 
-    /*public void Desaparecer()
+    public void DesactivarEnemigo()
     {
         Borrar();
-    }*/
+        x = -1;
+        y = -1;
+    }
+   
+   
 
 }

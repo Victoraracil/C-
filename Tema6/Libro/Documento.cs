@@ -1,56 +1,37 @@
 ﻿using System;
-/*Crea una variante del proyecto Libro (ejercicio 6.7.2) en la que el
-constructor de Documento escriba en pantalla "Creando documento" y el
-constructor de Libro escriba en pantalla "Creando libro". Comprueba su
-funcionamiento.*/
 class Documento
 {
-    public Documento()
-    {
-        Console.WriteLine("Creando documento...");
-    }
-
     protected string autor;
-    protected string titulo;
+    public string titulo;
     protected string ubicacion;
-    public void GetTitulo()
+    protected int paginas;
+    protected string procedencia;
+    public Documento(string titulo, string autor, string ubicacion, int paginas, string procedencia)
     {
         this.titulo = titulo;
-        return;
-    }
-    public void GetAutor()
-    {
         this.autor = autor;
-        return;
-    }
-    public void GetUbicacion()
-    {
         this.ubicacion = ubicacion;
-        return;
+        this.paginas = paginas;
+        this.procedencia = procedencia;
     }
-    public void SetTitulo()
+    public void ToString()
     {
-         titulo = "Los Juegos del Hambre";
-        return;
-    }
-    public void SetAutor()
-    {
-         autor = "Suzanne Collins";
-        return;
-    }
-    public void SetUbicacion()
-    {
-         ubicacion = "EEUU";
-        return;
+        Console.WriteLine("-Titulo: " + titulo + " -Autor: " + autor + " -Ubicacion: " + ubicacion + " -Paginas: " + paginas + " -Procedencia: " + procedencia);
     }
     public void MostrarDocumento()
     {
-        GetTitulo();
-        GetAutor();
-        GetUbicacion();
-        Console.WriteLine("Titulo: " + titulo);
-        Console.WriteLine("Autor: " + autor); 
-        Console.WriteLine("Ubicacion: " + ubicacion);
+        ToString();
+    }
+    public bool Contiene(string texto)
+    {
+        if (titulo.Contains(texto) || autor.Contains(texto))
+        {
+            return true;
+        }
+        else
+        {
+            return false;
+        }
     }
 }
 

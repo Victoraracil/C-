@@ -13,3 +13,18 @@ C:\Users\Victor Aracil\Desktop\C#\Tema6\Libro\obj\Debug\net8.0\refint\Libro.dll
 C:\Users\Victor Aracil\Desktop\C#\Tema6\Libro\obj\Debug\net8.0\Libro.pdb
 C:\Users\Victor Aracil\Desktop\C#\Tema6\Libro\obj\Debug\net8.0\Libro.genruntimeconfig.cache
 C:\Users\Victor Aracil\Desktop\C#\Tema6\Libro\obj\Debug\net8.0\ref\Libro.dll
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Libro\bin\Debug\net8.0\Libro.exe
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Libro\bin\Debug\net8.0\Libro.deps.json
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Libro\bin\Debug\net8.0\Libro.runtimeconfig.json
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Libro\bin\Debug\net8.0\Libro.dll
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Libro\bin\Debug\net8.0\Libro.pdb
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Libro\obj\Debug\net8.0\Libro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Libro\obj\Debug\net8.0\Libro.AssemblyInfoInputs.cache
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Libro\obj\Debug\net8.0\Libro.AssemblyInfo.cs
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Libro\obj\Debug\net8.0\Libro.csproj.CoreCompileInputs.cache
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Libro\obj\Debug\net8.0\Libro.sourcelink.json
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Libro\obj\Debug\net8.0\Libro.dll
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Libro\obj\Debug\net8.0\refint\Libro.dll
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Libro\obj\Debug\net8.0\Libro.pdb
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Libro\obj\Debug\net8.0\Libro.genruntimeconfig.cache
+C:\Users\Mumponet2006\Desktop\C#\Tema6\Libro\obj\Debug\net8.0\ref\Libro.dll

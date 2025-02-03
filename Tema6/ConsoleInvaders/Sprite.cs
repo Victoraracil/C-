@@ -7,8 +7,8 @@ Enemigo que recibe los parámetros X e Y.*/
 
 class Sprite    
 {
-    protected int x = 40;
-    protected int y = 20;
+    public int x = 40;
+    public int y = 20;
     protected string imagen = "/\\";
     protected ConsoleColor color = ConsoleColor.White;
     public Sprite(int x, int y, string imagen = "<>", ConsoleColor color = ConsoleColor.White)
@@ -17,6 +17,7 @@ class Sprite
         this.y = y;
         this.imagen = imagen;
         this.color = color;
+
 
     }
 

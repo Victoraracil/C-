@@ -4,7 +4,7 @@ using System.Threading;
 class BloqueEnemigos
 {
     Enemigo[,] bloqueEnemigos = new Enemigo[3, 10];
-    int x = 0, y = 2;
+    public int x = 0, y = 2;
     bool direccionDerecha = true;
     String imagen = ")-(";
     public BloqueEnemigos()
@@ -15,16 +15,16 @@ class BloqueEnemigos
             {
                 if (i == 0)
                 {
-                    bloqueEnemigos[i, j] = new EnemigoTipo1(x + j * 5, y + i * 2, imagen, ConsoleColor.Red);
+                    bloqueEnemigos[i, j] = new EnemigoTipo1(x + j * 5, y + i * 2, "]_[", ConsoleColor.Red);
 
                 }
                 if (i == 1)
                 {
-                    bloqueEnemigos[i, j] = new EnemigoTipo2(x + j * 5, y + i * 2, imagen, ConsoleColor.Red);
+                    bloqueEnemigos[i, j] = new EnemigoTipo2(x + j * 5, y + i * 2, "].[", ConsoleColor.Yellow);
                 }
                 if (i == 2)
                 {
-                    bloqueEnemigos[i, j] = new EnemigoTipo3(x + j * 5, y + i * 2, imagen, ConsoleColor.Red);
+                    bloqueEnemigos[i, j] = new EnemigoTipo3(x + j * 5, y + i * 2, ")-(", ConsoleColor.Green);
 
                 }
             }
@@ -63,26 +63,53 @@ class BloqueEnemigos
 
         if (direccionDerecha == true)
         {
-            if (x + bloqueEnemigos.Length < 120)
-            {
-                
+            if (x + 49 < 120)
+            {              
+                for (int i = 0; i < 3; i++)
+                {
+                    for (int j = 0; j < 10; j++)
+                    {
+                        bloqueEnemigos[i, j].MoverA(1, 0);
+                        
+                    }
+                }
+                x++;
             }
             else
             {
                 direccionDerecha = false;
-                //EnemigoTipo1.MoverA(this.x, 1);
+                for (int i = 0; i < 3; i++)
+                {
+                    for (int j = 0; j < 10; j++)
+                    {
+                        bloqueEnemigos[i, j].MoverA(0, 1);
+                    }
+                }
             }
         }
         else
         {
-            if (x > 0)
-            {
+            if (x  > 0)
+            {             
+                for (int i = 0; i < 3; i++)
+                {
+                    for (int j = 0; j < 10; j++)
+                    {
+                        bloqueEnemigos[i, j].MoverA(-1, 0);
+                    }
+                }
                 x--;
             }
             else
             {
-                direccionDerecha = true;
-                y++;
+                direccionDerecha = true;              
+                for (int i = 0; i < 3; i++)
+                {
+                    for (int j = 0; j < 10; j++)
+                    {
+                        bloqueEnemigos[i, j].MoverA(0, 1);
+                    }
+                }
             }
         }
         DibujarBloque();
@@ -97,5 +124,13 @@ class BloqueEnemigos
 
             }
         }
+    }
+    public Enemigo GetEnemigo(int i, int j)
+    {
+        return bloqueEnemigos[i, j];
+    }
+    public void DesactivarEnemigo() 
+    {
+        
     }
 }
