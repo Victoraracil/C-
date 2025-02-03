@@ -18,7 +18,7 @@ class Partida
         Console.SetWindowSize(120, 29);
         Nave nave = new Nave(60, 28, @"/!\", ConsoleColor.White);
         BloqueEnemigos bloqueEnemigos = new BloqueEnemigos();
-        Disparo disparo = new Disparo(1, 1);
+        DisparoAmigo disparoAmigo = new DisparoAmigo(nave.x + 1, nave.y + 1, "|", ConsoleColor.White);    
         DibujarElementos(nave, bloqueEnemigos);
 
         do //bucle principal del juego

@@ -6,14 +6,14 @@ Existirá un único disparo, y no se podrá volver a disparar si está activo (e
 pantalla). Inicialmente estará desactivado, y lo volverá a estar cuando llegue al
 margen de la pantalla.*/
 
-class Disparo
+class DisparoAmigo
 {
     public int x = 1;
     public int y = 1;
     public string imagen = "!";
     public ConsoleColor color = ConsoleColor.White;
     public bool activo = false;
-    public Disparo(int x, int y, string imagen = "!", ConsoleColor color = ConsoleColor.White)
+    public DisparoAmigo(int x, int y, string imagen = "!", ConsoleColor color = ConsoleColor.White)
     {
         this.x = x;
         this.y = y;

@@ -13,7 +13,7 @@ class Juego
 {
     public void Lanzar()
     {
-        Bienvanida b = new Bienvanida();
+        Bienvenida b = new Bienvenida();
         b.LanzarBienvenida();
         do
         {

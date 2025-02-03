@@ -1,4 +1,5 @@
 ﻿using System;
+//Añadir nuevas funciones a la biblioteca
 class ListaDeDocumentos
 {
     protected string autor;
@@ -13,6 +14,7 @@ class ListaDeDocumentos
         do
         {
             Console.Clear();
+            Console.WriteLine("Menú de la biblioteca");
             Console.WriteLine("0 - Salir");
             Console.WriteLine("1 - Añadir libro");
             Console.WriteLine("2 - Ver libros");
@@ -20,6 +22,9 @@ class ListaDeDocumentos
             Console.WriteLine("4 - Modificar libro");
             Console.WriteLine("5 - Borrar libro");
             Console.WriteLine("6 - Ordenar libros");
+
+
+
             op = Console.ReadLine();
 
             switch (op)
@@ -31,6 +36,7 @@ class ListaDeDocumentos
                 case "4": biblioteca.ModificarLibro(); break;
                 case "5": biblioteca.BorrarLibro(); break;
                 case "6": biblioteca.OrdenarLibros(); break;
+
                 default: Console.WriteLine("Opción incorrecta"); break;
             }
         } while (op != "0");
