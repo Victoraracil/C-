@@ -7,9 +7,9 @@ Enemigo que recibe los parámetros X e Y.*/
 
 class Sprite    
 {
-    public int x = 40;
-    public int y = 20;
-    protected string imagen = "/\\";
+    public int x;
+    public int y;
+    protected string imagen;
     protected ConsoleColor color = ConsoleColor.White;
     public Sprite(int x, int y, string imagen = "<>", ConsoleColor color = ConsoleColor.White)
     {
@@ -20,27 +20,49 @@ class Sprite
 
 
     }
-
-    public void MoverA(int x1, int y1)// modificar con dos parametros
+    public int GetX()
     {
-
-        if (x + x1 >= 0 && x + this.imagen.Length + x1 <= 120)
+        return this.x;
+    }
+    public int GetY()
+    {
+        return this.y;
+    }
+    public string GetImagen()
+    {
+        return this.imagen;
+    }
+    public void SetX(int x)
+    {
+        this.x = x;
+    }
+    public void SetY(int y)
+    {
+        this.y = y;
+    }
+    public void SetImagen(string imagen)
+    {
+        this.imagen = imagen;
+    }
+    public void MoverA(int x, int y)
+    {
+        if (x < 0 || x >= Console.WindowWidth || y < 0 || y >= Console.WindowHeight)
         {
-            Borrar();
-            x = x + (x1);
+            return;
         }
-        if (y + y1 >= 0 && y + y1 <= 29)
-        {
-            Borrar();
-            y = y + (y1);
-        }
-       
         else
         {
+            Console.SetCursorPosition(x, y);
+            for (int i = 0; i < imagen.Length; i++)
+                Console.Write(" ");
+            SetX(x);
+            SetY(y);
+            Dibujar();
         }
-       
+
+        
     }
-    public void Dibujar()
+    public virtual void Dibujar()
     {
         ConsoleColor colorAnterior = Console.ForegroundColor;
         Console.ForegroundColor = this.color;
@@ -57,5 +79,20 @@ class Sprite
         Console.Write(new String(' ' ,this.imagen.Length));
     }
 
-    
+    public bool ColisionaCon(Sprite s)
+    {
+        // Consideramos los tamaños de cada sprite para ver si colisionan 
+        // horizontalmente
+        int tam1 = GetImagen().Length;
+        int tam2 = s.GetImagen().Length;
+
+        // Colisionarán en horizontal si uno de los sprites está contenido entre 
+        // la coordenada X y la coordenada X + el tamaño del sprite del otro
+        bool colisionX = (GetX() <= s.GetX() && GetX() + tam1 >= s.GetX()) ||
+                         (s.GetX() <= GetX() && s.GetX() + tam2 >= GetX());
+        bool colisionY = GetY() == s.GetY();
+
+        return colisionX && colisionY;
+    }
+
 }

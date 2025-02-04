@@ -11,19 +11,46 @@ planteamiento que elijas), no te preocupes por ahora, lo solucionaremos en el
 siguiente apartado*/
 internal class Enemigo : Sprite
 {
+    protected bool activo;
+    protected int direccion;
     public Enemigo(int x, int y, string imagen, ConsoleColor color) : base(x, y, imagen, color)
     {
-
+        activo = true;
+        this.x = x;
+        this.y = y;
+        this.imagen = imagen;
+        this.color = color;
+        direccion = 1;
     }
-    public void MoverIzquierda()
+    public bool GetActivo()
     {
-        MoverA(1, 0);
+        return activo;
     }
-
-    public void MoverDerecha()
+    public void SetActivo(bool activo)
     {
-        MoverA(-1, 0);
-    }   
+        this.activo = activo;
+    }
+    public override void Dibujar()
+    {
+        if (activo)
+        {
+            base.Dibujar();
+        }
+    }
+    public void Mover()
+    {
+        if ((x < Parametros.ANCHO - imagen.Length && direccion > 0)
+            || (x > 0 && direccion < 0))
+        {
+            // Mover a la derecha o izquierda, según la dirección
+            MoverA(x + direccion, y);
+        }
+        else
+        {
+            // Cambiar la dirección de movimiento
+            direccion = -direccion;
+        }
+    }
 
     public void DesactivarEnemigo()
     {
