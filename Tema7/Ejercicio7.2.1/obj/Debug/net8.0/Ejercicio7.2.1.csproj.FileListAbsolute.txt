@@ -1,0 +1,14 @@
+C:\Users\Victor Aracil\Desktop\Ejercicio7.2.1\bin\Debug\net8.0\Ejercicio7.2.1.exe
+C:\Users\Victor Aracil\Desktop\Ejercicio7.2.1\bin\Debug\net8.0\Ejercicio7.2.1.deps.json
+C:\Users\Victor Aracil\Desktop\Ejercicio7.2.1\bin\Debug\net8.0\Ejercicio7.2.1.runtimeconfig.json
+C:\Users\Victor Aracil\Desktop\Ejercicio7.2.1\bin\Debug\net8.0\Ejercicio7.2.1.dll
+C:\Users\Victor Aracil\Desktop\Ejercicio7.2.1\bin\Debug\net8.0\Ejercicio7.2.1.pdb
+C:\Users\Victor Aracil\Desktop\Ejercicio7.2.1\obj\Debug\net8.0\Ejercicio7.2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Aracil\Desktop\Ejercicio7.2.1\obj\Debug\net8.0\Ejercicio7.2.1.AssemblyInfoInputs.cache
+C:\Users\Victor Aracil\Desktop\Ejercicio7.2.1\obj\Debug\net8.0\Ejercicio7.2.1.AssemblyInfo.cs
+C:\Users\Victor Aracil\Desktop\Ejercicio7.2.1\obj\Debug\net8.0\Ejercicio7.2.1.csproj.CoreCompileInputs.cache
+C:\Users\Victor Aracil\Desktop\Ejercicio7.2.1\obj\Debug\net8.0\Ejercicio7.2.1.dll
+C:\Users\Victor Aracil\Desktop\Ejercicio7.2.1\obj\Debug\net8.0\refint\Ejercicio7.2.1.dll
+C:\Users\Victor Aracil\Desktop\Ejercicio7.2.1\obj\Debug\net8.0\Ejercicio7.2.1.pdb
+C:\Users\Victor Aracil\Desktop\Ejercicio7.2.1\obj\Debug\net8.0\Ejercicio7.2.1.genruntimeconfig.cache
+C:\Users\Victor Aracil\Desktop\Ejercicio7.2.1\obj\Debug\net8.0\ref\Ejercicio7.2.1.dll

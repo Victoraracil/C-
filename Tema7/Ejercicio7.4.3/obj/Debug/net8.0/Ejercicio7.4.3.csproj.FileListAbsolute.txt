@@ -1,0 +1,15 @@
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio7.4.3\bin\Debug\net8.0\Ejercicio7.4.3.exe
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio7.4.3\bin\Debug\net8.0\Ejercicio7.4.3.deps.json
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio7.4.3\bin\Debug\net8.0\Ejercicio7.4.3.runtimeconfig.json
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio7.4.3\bin\Debug\net8.0\Ejercicio7.4.3.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio7.4.3\bin\Debug\net8.0\Ejercicio7.4.3.pdb
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio7.4.3\obj\Debug\net8.0\Ejercicio7.4.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio7.4.3\obj\Debug\net8.0\Ejercicio7.4.3.AssemblyInfoInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio7.4.3\obj\Debug\net8.0\Ejercicio7.4.3.AssemblyInfo.cs
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio7.4.3\obj\Debug\net8.0\Ejercicio7.4.3.csproj.CoreCompileInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio7.4.3\obj\Debug\net8.0\Ejercicio7.4.3.sourcelink.json
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio7.4.3\obj\Debug\net8.0\Ejercicio7.4.3.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio7.4.3\obj\Debug\net8.0\refint\Ejercicio7.4.3.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio7.4.3\obj\Debug\net8.0\Ejercicio7.4.3.pdb
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio7.4.3\obj\Debug\net8.0\Ejercicio7.4.3.genruntimeconfig.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio7.4.3\obj\Debug\net8.0\ref\Ejercicio7.4.3.dll

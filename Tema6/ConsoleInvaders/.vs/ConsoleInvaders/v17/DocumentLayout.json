@@ -1,17 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema6\\ConsoleInvaders\\",
+  "WorkspaceRootPath": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\ConsoleInvaders\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|c:\\users\\mumponet2006\\desktop\\c#\\tema6\\consoleinvaders\\torredefensiva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\consoleinvaders\\bienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|solutionrelative:bienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\consoleinvaders\\torredefensiva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|solutionrelative:torredefensiva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|c:\\users\\mumponet2006\\desktop\\c#\\tema6\\consoleinvaders\\disparo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\consoleinvaders\\disparo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|solutionrelative:disparo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|c:\\users\\mumponet2006\\desktop\\c#\\tema6\\consoleinvaders\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\consoleinvaders\\partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{841C3B45-B9C1-44F7-BCD0-9A5C3ECD35C8}|ConsoleInvaders.csproj|solutionrelative:partida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -25,25 +29,41 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Partida.cs",
-              "DocumentMoniker": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema6\\ConsoleInvaders\\Partida.cs",
-              "RelativeDocumentMoniker": "Partida.cs",
-              "ToolTip": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema6\\ConsoleInvaders\\Partida.cs",
-              "RelativeToolTip": "Partida.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwDcAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T17:23:40.546Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Bienvenida.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\ConsoleInvaders\\Bienvenida.cs",
+              "RelativeDocumentMoniker": "Bienvenida.cs",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\ConsoleInvaders\\Bienvenida.cs",
+              "RelativeToolTip": "Bienvenida.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:07:37.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Partida.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\ConsoleInvaders\\Partida.cs",
+              "RelativeDocumentMoniker": "Partida.cs",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\ConsoleInvaders\\Partida.cs",
+              "RelativeToolTip": "Partida.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwDcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T17:23:40.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TorreDefensiva.cs",
-              "DocumentMoniker": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema6\\ConsoleInvaders\\TorreDefensiva.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\ConsoleInvaders\\TorreDefensiva.cs",
               "RelativeDocumentMoniker": "TorreDefensiva.cs",
-              "ToolTip": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema6\\ConsoleInvaders\\TorreDefensiva.cs",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\ConsoleInvaders\\TorreDefensiva.cs",
               "RelativeToolTip": "TorreDefensiva.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -51,25 +71,16 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Disparo.cs",
-              "DocumentMoniker": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema6\\ConsoleInvaders\\Disparo.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\ConsoleInvaders\\Disparo.cs",
               "RelativeDocumentMoniker": "Disparo.cs",
-              "ToolTip": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema6\\ConsoleInvaders\\Disparo.cs",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\ConsoleInvaders\\Disparo.cs",
               "RelativeToolTip": "Disparo.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T23:26:05.905Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "WhenOpened": "2025-02-02T23:26:05.905Z"
             }
           ]
         }

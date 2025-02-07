@@ -1,0 +1,15 @@
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio pilas - colas\bin\Debug\net8.0\Ejercicio pilas - colas.exe
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio pilas - colas\bin\Debug\net8.0\Ejercicio pilas - colas.deps.json
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio pilas - colas\bin\Debug\net8.0\Ejercicio pilas - colas.runtimeconfig.json
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio pilas - colas\bin\Debug\net8.0\Ejercicio pilas - colas.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio pilas - colas\bin\Debug\net8.0\Ejercicio pilas - colas.pdb
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio pilas - colas\obj\Debug\net8.0\Ejercicio pilas - colas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio pilas - colas\obj\Debug\net8.0\Ejercicio pilas - colas.AssemblyInfoInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio pilas - colas\obj\Debug\net8.0\Ejercicio pilas - colas.AssemblyInfo.cs
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio pilas - colas\obj\Debug\net8.0\Ejercicio pilas - colas.csproj.CoreCompileInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio pilas - colas\obj\Debug\net8.0\Ejercicio pilas - colas.sourcelink.json
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio pilas - colas\obj\Debug\net8.0\Ejercicio pilas - colas.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio pilas - colas\obj\Debug\net8.0\refint\Ejercicio pilas - colas.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio pilas - colas\obj\Debug\net8.0\Ejercicio pilas - colas.pdb
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio pilas - colas\obj\Debug\net8.0\Ejercicio pilas - colas.genruntimeconfig.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema7\Ejercicio pilas - colas\obj\Debug\net8.0\ref\Ejercicio pilas - colas.dll
