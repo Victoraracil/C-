@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema7\\Ejercicio7.9.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{202C8B05-CD33-4391-A99C-C6167403A071}|Ejercicio7.9.2.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema7\\ejercicio7.9.2\\listaordenada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202C8B05-CD33-4391-A99C-C6167403A071}|Ejercicio7.9.2.csproj|solutionrelative:listaordenada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{202C8B05-CD33-4391-A99C-C6167403A071}|Ejercicio7.9.2.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema7\\ejercicio7.9.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{202C8B05-CD33-4391-A99C-C6167403A071}|Ejercicio7.9.2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema7\\Ejercicio7.9.2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema7\\Ejercicio7.9.2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:13:47.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListaOrdenada.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema7\\Ejercicio7.9.2\\ListaOrdenada.cs",
+              "RelativeDocumentMoniker": "ListaOrdenada.cs",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema7\\Ejercicio7.9.2\\ListaOrdenada.cs",
+              "RelativeToolTip": "ListaOrdenada.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T17:17:12.992Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
