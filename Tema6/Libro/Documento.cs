@@ -4,23 +4,19 @@ class Documento
     protected string autor;
     public string titulo;
     protected string ubicacion;
-    protected int paginas;
-    protected string procedencia;
-    public Documento(string titulo, string autor, string ubicacion, int paginas, string procedencia)
+    public Documento(string titulo, string autor, string ubicacion)
     {
         this.titulo = titulo;
         this.autor = autor;
         this.ubicacion = ubicacion;
-        this.paginas = paginas;
-        this.procedencia = procedencia;
     }
-    public void ToString()
+    public string ToString()
     {
-        Console.WriteLine("-Titulo: " + titulo + " -Autor: " + autor + " -Ubicacion: " + ubicacion + " -Paginas: " + paginas + " -Procedencia: " + procedencia);
+        return ("-Titulo: " + titulo + " -Autor: " + autor + " -Ubicacion: " + ubicacion);
     }
     public void MostrarDocumento()
     {
-        ToString();
+        Console.WriteLine(ToString());
     }
     public bool Contiene(string texto)
     {

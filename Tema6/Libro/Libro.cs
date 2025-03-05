@@ -2,17 +2,14 @@
 class Libro : Documento
 {
     protected int paginas;
-    public Libro(string titulo, string autor, string ubicacion, int paginas, string procedencia) : base(titulo, autor, ubicacion, paginas, procedencia)
+    public Libro(string titulo, string autor, string ubicacion, int paginas) : base(titulo, autor, ubicacion)
     {
-        this.titulo = titulo;
-        this.autor = autor;
-        this.ubicacion = ubicacion;
+
         this.paginas = paginas;
-        this.procedencia = procedencia;
     } 
-    public void ToString()
+    public string ToString()
     {
-        Console.WriteLine("-Titulo: " + titulo + " -Autor: " + autor + " -Ubicacion: " + ubicacion + " -Paginas: " + paginas);
+        return ("-Titulo: " + titulo + " -Autor: " + autor + " -Ubicacion: " + ubicacion + " -Paginas: " + paginas);
     }
     public bool Contiene(string texto)
     {
