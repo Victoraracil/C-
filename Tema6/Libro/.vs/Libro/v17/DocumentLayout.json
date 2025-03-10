@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema6\\Libro\\",
+  "WorkspaceRootPath": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro.csproj|c:\\users\\mumponet2006\\desktop\\c#\\tema6\\libro\\bloquedelibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\libro\\bloquedelibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro.csproj|solutionrelative:bloquedelibros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro.csproj|c:\\users\\mumponet2006\\desktop\\c#\\tema6\\libro\\pruebadelibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\libro\\pruebadelibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro.csproj|solutionrelative:pruebadelibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro.csproj|c:\\users\\mumponet2006\\desktop\\c#\\tema6\\libro\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\libro\\documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro.csproj|solutionrelative:documento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro.csproj|c:\\users\\mumponet2006\\desktop\\c#\\tema6\\libro\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\libro\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro.csproj|solutionrelative:libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro.csproj|c:\\users\\mumponet2006\\desktop\\c#\\tema6\\libro\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema6\\libro\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C8BD0D2-64EB-4E6A-906B-2449447B4F2A}|Libro.csproj|solutionrelative:articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,22 +40,21 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "PruebaDeLibro.cs",
-              "DocumentMoniker": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema6\\Libro\\PruebaDeLibro.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro\\PruebaDeLibro.cs",
               "RelativeDocumentMoniker": "PruebaDeLibro.cs",
-              "ToolTip": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema6\\Libro\\PruebaDeLibro.cs",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro\\PruebaDeLibro.cs",
               "RelativeToolTip": "PruebaDeLibro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T17:57:38.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T17:57:38.148Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BloqueDeLibros.cs",
-              "DocumentMoniker": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema6\\Libro\\BloqueDeLibros.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro\\BloqueDeLibros.cs",
               "RelativeDocumentMoniker": "BloqueDeLibros.cs",
-              "ToolTip": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema6\\Libro\\BloqueDeLibros.cs",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro\\BloqueDeLibros.cs",
               "RelativeToolTip": "BloqueDeLibros.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAgwDsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -66,40 +65,37 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Articulo.cs",
-              "DocumentMoniker": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema6\\Libro\\Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro\\Articulo.cs",
               "RelativeDocumentMoniker": "Articulo.cs",
-              "ToolTip": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema6\\Libro\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro\\Articulo.cs",
               "RelativeToolTip": "Articulo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAB2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T16:39:45.4Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T16:39:45.4Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Libro.cs",
-              "DocumentMoniker": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema6\\Libro\\Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro\\Libro.cs",
               "RelativeDocumentMoniker": "Libro.cs",
-              "ToolTip": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema6\\Libro\\Libro.cs",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro\\Libro.cs",
               "RelativeToolTip": "Libro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T17:52:58.387Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T17:52:58.387Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Documento.cs",
-              "DocumentMoniker": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema6\\Libro\\Documento.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro\\Documento.cs",
               "RelativeDocumentMoniker": "Documento.cs",
-              "ToolTip": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema6\\Libro\\Documento.cs",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema6\\Libro\\Documento.cs",
               "RelativeToolTip": "Documento.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T14:59:49.882Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T14:59:49.882Z"
             }
           ]
         }
