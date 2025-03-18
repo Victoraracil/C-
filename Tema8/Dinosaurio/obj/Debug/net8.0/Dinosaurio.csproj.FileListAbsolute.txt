@@ -1,0 +1,15 @@
+C:\Users\Victor Aracil\Desktop\C#\Tema8\Dinosaurio\bin\Debug\net8.0\Dinosaurio.exe
+C:\Users\Victor Aracil\Desktop\C#\Tema8\Dinosaurio\bin\Debug\net8.0\Dinosaurio.deps.json
+C:\Users\Victor Aracil\Desktop\C#\Tema8\Dinosaurio\bin\Debug\net8.0\Dinosaurio.runtimeconfig.json
+C:\Users\Victor Aracil\Desktop\C#\Tema8\Dinosaurio\bin\Debug\net8.0\Dinosaurio.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema8\Dinosaurio\bin\Debug\net8.0\Dinosaurio.pdb
+C:\Users\Victor Aracil\Desktop\C#\Tema8\Dinosaurio\obj\Debug\net8.0\Dinosaurio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Aracil\Desktop\C#\Tema8\Dinosaurio\obj\Debug\net8.0\Dinosaurio.AssemblyInfoInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema8\Dinosaurio\obj\Debug\net8.0\Dinosaurio.AssemblyInfo.cs
+C:\Users\Victor Aracil\Desktop\C#\Tema8\Dinosaurio\obj\Debug\net8.0\Dinosaurio.csproj.CoreCompileInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema8\Dinosaurio\obj\Debug\net8.0\Dinosaurio.sourcelink.json
+C:\Users\Victor Aracil\Desktop\C#\Tema8\Dinosaurio\obj\Debug\net8.0\Dinosaurio.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema8\Dinosaurio\obj\Debug\net8.0\refint\Dinosaurio.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema8\Dinosaurio\obj\Debug\net8.0\Dinosaurio.pdb
+C:\Users\Victor Aracil\Desktop\C#\Tema8\Dinosaurio\obj\Debug\net8.0\Dinosaurio.genruntimeconfig.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema8\Dinosaurio\obj\Debug\net8.0\ref\Dinosaurio.dll
