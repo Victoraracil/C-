@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dinosaurio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9be9bdf7b790ac19f6c620752eaade25701c7b90")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7743870bf9a44c507b8814e23d71db7167afdb85")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dinosaurio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dinosaurio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

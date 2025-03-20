@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel.Design.Serialization;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
 class GrupoDeDinosaurios
@@ -23,50 +24,46 @@ class GrupoDeDinosaurios
         dinosaurios.Add(new Dinosaurio("Dinosaurio8", r.Next(0, 51), r.Next(0, 70001)));
 
     }
-    public void AnyadirDinosaurio()
+    public void AnyadirDinosaurio(string nombre, int peso, float longitud)
     {
-        Console.Write("Nombre: ");
-        string nombre = Console.ReadLine();
-        Console.Write("Peso (entre 0 y 70000): ");
-        int peso = Convert.ToInt32(Console.ReadLine());
-        if (peso < 0 || peso > 70000)
-        {
-            peso = 0;
-        }
-        Console.Write("Longitud (entre 0 y 50): ");
-        float longitud = Convert.ToInt64(Console.ReadLine());
-        if (longitud < 0 || longitud > 50)
-        {
-            longitud = 0;
-        }
         dinosaurios.Add(new Dinosaurio(nombre, peso, longitud));
         Console.WriteLine("Dinosaurio añadido correctamente... ");
         Console.ReadLine();
     }
     public void BorrarTodos()
     {
-
+        dinosaurios.RemoveAll(D => D.Nombre != " ");
     }
-    public void BorrarPorNombre(string nombre)
+    public int BorrarPorNombre(string nombre)
     {
-        Console.WriteLine("Escribe el nombre del ninosaurio a eliminar");
-        nombre = Console.ReadLine();
-        dinosaurios.RemoveAll((D) => D.Contains(nombre));
+        return dinosaurios.RemoveAll(D => D.Nombre.Contains(nombre));
     }
     public void MostrarTodos()
     {
         dinosaurios.ForEach((D) => Console.WriteLine(D.ToString()));
     }
-    public void MostrarPorNombre(string nombre)
+    public List<Dinosaurio> MostrarPorNombre(string nombre)
     { 
-        dinosaurios.FindAll(D => D.Contains(nombre));
+        return dinosaurios.FindAll(D => D.Nombre.Contains(nombre));
     }
-    public void MostrarPorDatos(string nombre, int peso, float longitud)
+    public List<Dinosaurio> MostrarPorDatos(string nombre, int peso, float longitud)
     {
-
+        return dinosaurios.FindAll(D => D.Nombre.Contains(nombre) && D.Peso == peso && D.Longitud == longitud);
     }
-    public void OrdenarDinosaurios()
+    public void OrdenarDinosaurios(int orden)
     {
+        switch (orden)
+        {
+            case 1:
+                dinosaurios.Sort((D, D2) => string.Compare(D.Nombre, D2.Nombre));
+                break;
+            case 2:
+                dinosaurios.Sort((D, D2) => D.Peso.CompareTo(D2.Peso));
+                break;
+            case 3:
+                dinosaurios.Sort((D, D2) => D.Longitud.CompareTo(D2.Longitud));
+                break;
+        }
 
     }
 }

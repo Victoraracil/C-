@@ -2,9 +2,9 @@
 
 class Dinosaurio
 {
-    protected string Nombre { get; set; }
-    protected int Peso { get; set; }
-    protected float Longitud { get; set; }
+    public string Nombre { get; set; }
+    public int Peso { get; set; }
+    public float Longitud { get; set; }
     public Dinosaurio(string nombre, int peso, float longitud)
     {
         Nombre = nombre;
