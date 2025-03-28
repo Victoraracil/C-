@@ -1,0 +1,15 @@
+C:\Users\Victor Aracil\Desktop\C#\Tema10\Ejercicio10.6.3\bin\Debug\net8.0\Ejercicio10.6.3.exe
+C:\Users\Victor Aracil\Desktop\C#\Tema10\Ejercicio10.6.3\bin\Debug\net8.0\Ejercicio10.6.3.deps.json
+C:\Users\Victor Aracil\Desktop\C#\Tema10\Ejercicio10.6.3\bin\Debug\net8.0\Ejercicio10.6.3.runtimeconfig.json
+C:\Users\Victor Aracil\Desktop\C#\Tema10\Ejercicio10.6.3\bin\Debug\net8.0\Ejercicio10.6.3.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema10\Ejercicio10.6.3\bin\Debug\net8.0\Ejercicio10.6.3.pdb
+C:\Users\Victor Aracil\Desktop\C#\Tema10\Ejercicio10.6.3\obj\Debug\net8.0\Ejercicio10.6.3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Aracil\Desktop\C#\Tema10\Ejercicio10.6.3\obj\Debug\net8.0\Ejercicio10.6.3.AssemblyInfoInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema10\Ejercicio10.6.3\obj\Debug\net8.0\Ejercicio10.6.3.AssemblyInfo.cs
+C:\Users\Victor Aracil\Desktop\C#\Tema10\Ejercicio10.6.3\obj\Debug\net8.0\Ejercicio10.6.3.csproj.CoreCompileInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema10\Ejercicio10.6.3\obj\Debug\net8.0\Ejercicio10.6.3.sourcelink.json
+C:\Users\Victor Aracil\Desktop\C#\Tema10\Ejercicio10.6.3\obj\Debug\net8.0\Ejercicio10.6.3.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema10\Ejercicio10.6.3\obj\Debug\net8.0\refint\Ejercicio10.6.3.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema10\Ejercicio10.6.3\obj\Debug\net8.0\Ejercicio10.6.3.pdb
+C:\Users\Victor Aracil\Desktop\C#\Tema10\Ejercicio10.6.3\obj\Debug\net8.0\Ejercicio10.6.3.genruntimeconfig.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema10\Ejercicio10.6.3\obj\Debug\net8.0\ref\Ejercicio10.6.3.dll
