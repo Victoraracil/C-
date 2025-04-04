@@ -1,0 +1,17 @@
+C:\Users\Victor Aracil\Desktop\C#\Tema9\AppContactos\bin\Debug\net8.0-windows\AppContactos.exe
+C:\Users\Victor Aracil\Desktop\C#\Tema9\AppContactos\bin\Debug\net8.0-windows\AppContactos.deps.json
+C:\Users\Victor Aracil\Desktop\C#\Tema9\AppContactos\bin\Debug\net8.0-windows\AppContactos.runtimeconfig.json
+C:\Users\Victor Aracil\Desktop\C#\Tema9\AppContactos\bin\Debug\net8.0-windows\AppContactos.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema9\AppContactos\bin\Debug\net8.0-windows\AppContactos.pdb
+C:\Users\Victor Aracil\Desktop\C#\Tema9\AppContactos\obj\Debug\net8.0-windows\AppContactos.Form1.resources
+C:\Users\Victor Aracil\Desktop\C#\Tema9\AppContactos\obj\Debug\net8.0-windows\AppContactos.csproj.GenerateResource.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema9\AppContactos\obj\Debug\net8.0-windows\AppContactos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Aracil\Desktop\C#\Tema9\AppContactos\obj\Debug\net8.0-windows\AppContactos.AssemblyInfoInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema9\AppContactos\obj\Debug\net8.0-windows\AppContactos.AssemblyInfo.cs
+C:\Users\Victor Aracil\Desktop\C#\Tema9\AppContactos\obj\Debug\net8.0-windows\AppContactos.csproj.CoreCompileInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema9\AppContactos\obj\Debug\net8.0-windows\AppContactos.sourcelink.json
+C:\Users\Victor Aracil\Desktop\C#\Tema9\AppContactos\obj\Debug\net8.0-windows\AppContactos.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema9\AppContactos\obj\Debug\net8.0-windows\refint\AppContactos.dll
+C:\Users\Victor Aracil\Desktop\C#\Tema9\AppContactos\obj\Debug\net8.0-windows\AppContactos.pdb
+C:\Users\Victor Aracil\Desktop\C#\Tema9\AppContactos\obj\Debug\net8.0-windows\AppContactos.genruntimeconfig.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema9\AppContactos\obj\Debug\net8.0-windows\ref\AppContactos.dll

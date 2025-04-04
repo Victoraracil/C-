@@ -26,7 +26,7 @@ Cuando arranca el programa si existe el fichero “animales.json” debe cargar 
 duplicados)
 Se debe controlar los errores tanto al leer o escribir ficheros como al leer números.*/
 
-class Animal
+public class Animal
 {
     public string Nombre { get; set; }
     public string Especie { get; set; }

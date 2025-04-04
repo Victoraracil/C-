@@ -24,24 +24,24 @@ namespace Calculadora
 
         private void btnGo_Click(object sender, EventArgs e)
         {
-            int number1 = Convert.ToInt32(txtNumber1.Text);
-            int number2 = Convert.ToInt32(txtNumber2.Text);
-            string selOperator = (string)(cmbOperator.SelectedItem);
-            switch (selOperator)
-            {
-                case "+":
-                    lblResult.Text = "" + (number1 + number2);
-                    break;
-                case "-":
-                    lblResult.Text = "" + (number1 - number2);
-                    break;
-                case "*":
-                    lblResult.Text = "" + (number1 * number2);
-                    break;
-                case "/":
-                    lblResult.Text = "" + (number1 / number2);
-                    break;
-            }
+                int number1 = Convert.ToInt32(txtNumber1.Text);
+                int number2 = Convert.ToInt32(txtNumber2.Text);
+                string selOperator = (string)(cmbOperator.SelectedItem);
+                switch (selOperator)
+                {
+                    case "+":
+                        lblResult.Text = "" + (number1 + number2);
+                        break;
+                    case "-":
+                        lblResult.Text = "" + (number1 - number2);
+                        break;
+                    case "*":
+                        lblResult.Text = "" + (number1 * number2);
+                        break;
+                    case "/":
+                        lblResult.Text = "" + (number1 / number2);
+                        break;
+                }
         }
 
         private void txtNumber1_TextChanged(object sender, EventArgs e)

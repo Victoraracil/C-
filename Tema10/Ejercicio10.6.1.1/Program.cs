@@ -25,7 +25,7 @@ Animales controlando los posibles errores con try-catch
 Cuando arranca el programa si existe el fichero “animales.json” debe cargar los animales a la lista (sin
 duplicados)
 Se debe controlar los errores tanto al leer o escribir ficheros como al leer números.*/
-class Program
+public class Program
 {
     static List<Animal> animales = new List<Animal>();
     static string fichero = "../../../animales.json";
@@ -58,8 +58,14 @@ class Program
             switch (op)
             {
                 case "0":
-                    //auto guardado
-                    Guardar(fichero, animales);
+                    //auto guardado si existe el fichero (no se ha eliminado)
+                    if (File.Exists(fichero))
+                    {
+                        Guardar(fichero, animales);
+                    }
+                    else
+                    {
+                    }
                     break;
                 case "1":
                     int peso;
