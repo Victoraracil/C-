@@ -1,0 +1,11 @@
+C:\Users\Victor Aracil\Desktop\C#\Tema11\Academia\obj\Debug\net8.0-windows\Academia.csproj.AssemblyReference.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema11\Academia\obj\Debug\net8.0-windows\Academia._01view.FrmAcademia.resources
+C:\Users\Victor Aracil\Desktop\C#\Tema11\Academia\obj\Debug\net8.0-windows\Academia._01view.FrmAlumnos.resources
+C:\Users\Victor Aracil\Desktop\C#\Tema11\Academia\obj\Debug\net8.0-windows\Academia._01view.FrmCursos.resources
+C:\Users\Victor Aracil\Desktop\C#\Tema11\Academia\obj\Debug\net8.0-windows\Academia._01view.FrmMatricula.resources
+C:\Users\Victor Aracil\Desktop\C#\Tema11\Academia\obj\Debug\net8.0-windows\Academia.csproj.GenerateResource.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema11\Academia\obj\Debug\net8.0-windows\Academia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Aracil\Desktop\C#\Tema11\Academia\obj\Debug\net8.0-windows\Academia.AssemblyInfoInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema11\Academia\obj\Debug\net8.0-windows\Academia.AssemblyInfo.cs
+C:\Users\Victor Aracil\Desktop\C#\Tema11\Academia\obj\Debug\net8.0-windows\Academia.csproj.CoreCompileInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\Tema11\Academia\obj\Debug\net8.0-windows\Academia.sourcelink.json
