@@ -34,5 +34,43 @@ namespace Academia._01view
             this.gestionAlumnos.Alumno.Dni = this.txtDni.Text;
         }
 
+        //Métodos para contestar a los eventos del ratón al hacer click sobre los botones
+        public void btnPrimero_Click()
+        {
+
+        }
+        public void btnUltimo_Click()
+        {
+
+        }
+        public void btnAnterior_Click()
+        {
+
+        }
+        public void btnSiguiente_Click() { }
+        public void btnEdit_Click() { }
+        public void btnInsert_Click() { }
+        public void btnRemove_Click() { }
+        public void btnFind_Click() { }
+        public void btnClear_Click() { }
+
+        //Eventos al cargar la pantalla y al hacer clic en el DataGridView
+        public void FrmAlumnos_Load() { }
+        public void dgvListaAlumnos_CellContentClick() { }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
