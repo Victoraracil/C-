@@ -28,56 +28,73 @@
         /// </summary>
         private void InitializeComponent()
         {
-            button1 = new Button();
-            button2 = new Button();
-            button3 = new Button();
+            btnAlum = new Button();
+            btnCurso = new Button();
+            btnMatri = new Button();
+            mySqlCommandBuilder1 = new MySqlConnector.MySqlCommandBuilder();
             SuspendLayout();
             // 
-            // button1
+            // btnAlum
             // 
-            button1.Location = new Point(109, 245);
-            button1.Name = "button1";
-            button1.Size = new Size(94, 29);
-            button1.TabIndex = 0;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            btnAlum.AutoSize = true;
+            btnAlum.Location = new Point(82, 209);
+            btnAlum.Margin = new Padding(3, 2, 3, 2);
+            btnAlum.Name = "btnAlum";
+            btnAlum.Size = new Size(164, 25);
+            btnAlum.TabIndex = 0;
+            btnAlum.Text = "Mantenimiento de alumnos";
+            btnAlum.UseVisualStyleBackColor = true;
+            btnAlum.Click += button1_Click;
             // 
-            // button2
+            // btnCurso
             // 
-            button2.Location = new Point(348, 245);
-            button2.Name = "button2";
-            button2.Size = new Size(94, 29);
-            button2.TabIndex = 1;
-            button2.Text = "button2";
-            button2.UseVisualStyleBackColor = true;
+            btnCurso.AutoSize = true;
+            btnCurso.Location = new Point(299, 209);
+            btnCurso.Margin = new Padding(3, 2, 3, 2);
+            btnCurso.Name = "btnCurso";
+            btnCurso.Size = new Size(152, 25);
+            btnCurso.TabIndex = 1;
+            btnCurso.Text = "Mantenimiento de cursos";
+            btnCurso.UseVisualStyleBackColor = true;
             // 
-            // button3
+            // btnMatri
             // 
-            button3.Location = new Point(580, 245);
-            button3.Name = "button3";
-            button3.Size = new Size(94, 29);
-            button3.TabIndex = 2;
-            button3.Text = "button3";
-            button3.UseVisualStyleBackColor = true;
+            btnMatri.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            btnMatri.AutoSize = true;
+            btnMatri.Location = new Point(507, 209);
+            btnMatri.Margin = new Padding(3, 2, 3, 2);
+            btnMatri.Name = "btnMatri";
+            btnMatri.Size = new Size(90, 25);
+            btnMatri.TabIndex = 2;
+            btnMatri.Text = "Matriculación";
+            btnMatri.UseVisualStyleBackColor = true;
+            // 
+            // mySqlCommandBuilder1
+            // 
+            mySqlCommandBuilder1.DataAdapter = null;
+            mySqlCommandBuilder1.QuotePrefix = "`";
+            mySqlCommandBuilder1.QuoteSuffix = "`";
             // 
             // FrmAcademia
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
-            Controls.Add(button3);
-            Controls.Add(button2);
-            Controls.Add(button1);
+            ClientSize = new Size(700, 338);
+            Controls.Add(btnMatri);
+            Controls.Add(btnCurso);
+            Controls.Add(btnAlum);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "FrmAcademia";
             Text = "FrmAcademia";
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
 
-        private Button button1;
-        private Button button2;
-        private Button button3;
+        private Button btnAlum;
+        private Button btnCurso;
+        private Button btnMatri;
+        private MySqlConnector.MySqlCommandBuilder mySqlCommandBuilder1;
     }
 }

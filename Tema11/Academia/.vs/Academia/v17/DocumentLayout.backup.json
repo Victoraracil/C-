@@ -1,30 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\",
+  "WorkspaceRootPath": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema11\\Academia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C9DBD63-0B30-489A-B209-008D4E4F90A4}|Academia.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema11\\academia\\01view\\frmalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C9DBD63-0B30-489A-B209-008D4E4F90A4}|Academia.csproj|c:\\users\\mumponet2006\\desktop\\c#\\tema11\\academia\\01view\\frmalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C9DBD63-0B30-489A-B209-008D4E4F90A4}|Academia.csproj|solutionrelative:01view\\frmalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C9DBD63-0B30-489A-B209-008D4E4F90A4}|Academia.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema11\\academia\\01view\\frmalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8C9DBD63-0B30-489A-B209-008D4E4F90A4}|Academia.csproj|c:\\users\\mumponet2006\\desktop\\c#\\tema11\\academia\\01view\\frmalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8C9DBD63-0B30-489A-B209-008D4E4F90A4}|Academia.csproj|solutionrelative:01view\\frmalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C9DBD63-0B30-489A-B209-008D4E4F90A4}|Academia.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema11\\academia\\02aplication\\gestionalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C9DBD63-0B30-489A-B209-008D4E4F90A4}|Academia.csproj|solutionrelative:02aplication\\gestionalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C9DBD63-0B30-489A-B209-008D4E4F90A4}|Academia.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema11\\academia\\02aplication\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C9DBD63-0B30-489A-B209-008D4E4F90A4}|Academia.csproj|solutionrelative:02aplication\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C9DBD63-0B30-489A-B209-008D4E4F90A4}|Academia.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema11\\academia\\03data\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C9DBD63-0B30-489A-B209-008D4E4F90A4}|Academia.csproj|solutionrelative:03data\\basedatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C9DBD63-0B30-489A-B209-008D4E4F90A4}|Academia.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema11\\academia\\02aplication\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C9DBD63-0B30-489A-B209-008D4E4F90A4}|Academia.csproj|solutionrelative:02aplication\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,92 +18,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FrmAlumnos.cs",
-              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\01view\\FrmAlumnos.cs",
+              "DocumentMoniker": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema11\\Academia\\01view\\FrmAlumnos.cs",
               "RelativeDocumentMoniker": "01view\\FrmAlumnos.cs",
-              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\01view\\FrmAlumnos.cs",
+              "ToolTip": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema11\\Academia\\01view\\FrmAlumnos.cs",
               "RelativeToolTip": "01view\\FrmAlumnos.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAIAxwCAAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAcwB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T15:12:26.512Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GestionAlumnos.cs",
-              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\02aplication\\GestionAlumnos.cs",
-              "RelativeDocumentMoniker": "02aplication\\GestionAlumnos.cs",
-              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\02aplication\\GestionAlumnos.cs",
-              "RelativeToolTip": "02aplication\\GestionAlumnos.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAkwEQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T14:42:26.224Z",
+              "WhenOpened": "2025-04-25T09:17:18.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FrmAlumnos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\01view\\FrmAlumnos.cs",
+              "DocumentMoniker": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema11\\Academia\\01view\\FrmAlumnos.cs",
               "RelativeDocumentMoniker": "01view\\FrmAlumnos.cs",
-              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\01view\\FrmAlumnos.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema11\\Academia\\01view\\FrmAlumnos.cs [Dise\u00F1o]",
               "RelativeToolTip": "01view\\FrmAlumnos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T14:41:32.795Z",
+              "WhenOpened": "2025-04-25T09:14:02.764Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BaseDatos.cs",
-              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\03data\\BaseDatos.cs",
-              "RelativeDocumentMoniker": "03data\\BaseDatos.cs",
-              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\03data\\BaseDatos.cs",
-              "RelativeToolTip": "03data\\BaseDatos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-10T14:40:40.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Alumno.cs",
-              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\02aplication\\Alumno.cs",
-              "RelativeDocumentMoniker": "02aplication\\Alumno.cs",
-              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\02aplication\\Alumno.cs",
-              "RelativeToolTip": "02aplication\\Alumno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T14:44:23.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Curso.cs",
-              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\02aplication\\Curso.cs",
-              "RelativeDocumentMoniker": "02aplication\\Curso.cs",
-              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\02aplication\\Curso.cs",
-              "RelativeToolTip": "02aplication\\Curso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T14:44:21.859Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             }
           ]
         }

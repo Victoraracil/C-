@@ -1795,23 +1795,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Victor Aracil\\.nuget\\packages\\": {},
+    "C:\\Users\\Mumponet2006\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\Academia.csproj",
+      "projectUniqueName": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema11\\Academia\\Academia.csproj",
       "projectName": "Academia",
-      "projectPath": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\Academia.csproj",
-      "packagesPath": "C:\\Users\\Victor Aracil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\obj\\",
+      "projectPath": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema11\\Academia\\Academia.csproj",
+      "packagesPath": "C:\\Users\\Mumponet2006\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Mumponet2006\\Desktop\\C#\\Tema11\\Academia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Victor Aracil\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mumponet2006\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

@@ -19,24 +19,71 @@ class GestionAlumnos
     public string Error()
     {
         //Devuelve el error si lo hay de la clase BaseDatos
+        return BaseDatos.Error;
     }
     public Alumno Primero()
     {
         //Busca el primer alumno y si lo encuentra lo asigna a la propiedad Alumno
+        //si no lo encuentra devuelve null
+        DataTable dt = BaseDatos.Consulta("select * from alumnos order by dni");
+        if (dt != null && dt.Rows.Count > 0)
+        {
+            Alumno = new Alumno(dt.Rows[0]["dni"].ToString(), dt.Rows[0]["nombre"].ToString(),
+            dt.Rows[0]["apellidos"].ToString(), dt.Rows[0]["telefono"].ToString(), dt.Rows[0]
+            ["poblacion"].ToString());
+            return (Alumno);
+        }
+        return (null);
+
     }
     public Alumno Ultimo()
     {
         //Busca el último alumno y si lo encuentra lo asigna a la propiedad Alumno
+        //si no lo encuentra devuelve null
+        DataTable dt = BaseDatos.Consulta("select * from alumnos order by dni desc");
+        if (dt != null && dt.Rows.Count > 0)
+        {
+            Alumno = new Alumno(dt.Rows[0]["dni"].ToString(), dt.Rows[0]["nombre"].ToString(),
+            dt.Rows[0]["apellidos"].ToString(), dt.Rows[0]["telefono"].ToString(), dt.Rows[0]
+            ["poblacion"].ToString());
+            return (Alumno);
+        }
+        return (null);
+
     }
     public Alumno Siguiente()
     {
         //Busca el siguiente alumno al actual (this.Alumno.dni) y si lo encuentra lo asigna a la
         //propiedad Alumno
+        //si no lo encuentra devuelve null
+        DataTable dt = BaseDatos.Consulta("select * from alumnos where dni > '" + this.Alumno.Dni +
+            "' order by dni");
+        if (dt != null && dt.Rows.Count > 0)
+        {
+            Alumno = new Alumno(dt.Rows[0]["dni"].ToString(), dt.Rows[0]["nombre"].ToString(),
+            dt.Rows[0]["apellidos"].ToString(), dt.Rows[0]["telefono"].ToString(), dt.Rows[0]
+            ["poblacion"].ToString());
+            return (Alumno);
+        }
+        return (null);
+
     }
     public Alumno Anterior()
     {
         //Busca el anterior alumno al actual (this.Alumno.dni) y si lo encuentra lo asigna a la
         //propiedad Alumno
+        //si no lo encuentra devuelve null
+        DataTable dt = BaseDatos.Consulta("select * from alumnos where dni < '" + this.Alumno.Dni +
+            "' order by dni desc");
+        if (dt != null && dt.Rows.Count > 0)
+        {
+            Alumno = new Alumno(dt.Rows[0]["dni"].ToString(), dt.Rows[0]["nombre"].ToString(),
+            dt.Rows[0]["apellidos"].ToString(), dt.Rows[0]["telefono"].ToString(), dt.Rows[0]
+            ["poblacion"].ToString());
+            return (Alumno);
+        }
+        return (null);
+
     }
     //Este método actualiza los datos de alumno cargado, hace un select con la clave principal
     //Aluno.Dni y si existe en la base de datos hace un update, en caso de no existir devuelve -1 para que la
@@ -58,15 +105,34 @@ class GestionAlumnos
     //primero mira que el alumno no exista en la base de datos, en caso de que ya exista devuelve -1
     public int Insert()
     {
-            /*Este método hace intenta insertar el alumno que tenemos en la propiedad
-            GestionAlumnos.Alumno:
-            -si no existe su DNI en la base de datos lo inserta y devuelve 1
-            - Si existe su DNI o hay algún error devuelve -1*/
+        /*Este método hace intenta insertar el alumno que tenemos en la propiedad
+        GestionAlumnos.Alumno:
+        -si no existe su DNI en la base de datos lo inserta y devuelve 1
+        - Si existe su DNI o hay algún error devuelve -1*/
+        string sql = "select * from alumnos where dni = '" + this.Alumno.Dni + "'";
+        if (BaseDatos.Consulta(sql).Rows.Count == 0)
+        {
+            sql = "insert into alumnos values ('" + this.Alumno.Dni + "', '" +
+            this.Alumno.Nombre + "', '" + this.Alumno.Apellidos + "', '" +
+            this.Alumno.Telefono + "', '" + this.Alumno.Poblacion + "')";
+            return (BaseDatos.Modificacion(sql));
+        }
+        return -1;
+
     }
     public int Remove()
     {
         //Este método borra de la base de la base de datos el alumno con la clave principal:
         //Alumno.dni.Habrá que sacar una ventana de advertencia antes de borrarlo
+        //si no existe el alumno devuelve -1
+        string sql = "select * from alumnos where dni = '" + this.Alumno.Dni + "'";
+        if (BaseDatos.Consulta(sql).Rows.Count > 0)
+        {
+            sql = "delete from alumnos where dni = '" + this.Alumno.Dni + "'";
+            return (BaseDatos.Modificacion(sql));
+        }
+        return -1;
+
     }
     //Este método obtiene el alumno cuyo dni se pasa como parámetro
     public Alumno GetById(string dni)
