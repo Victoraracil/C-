@@ -30,44 +30,30 @@
         {
             btnAlum = new Button();
             btnCurso = new Button();
-            btnMatri = new Button();
             mySqlCommandBuilder1 = new MySqlConnector.MySqlCommandBuilder();
             SuspendLayout();
             // 
             // btnAlum
             // 
             btnAlum.AutoSize = true;
-            btnAlum.Location = new Point(82, 209);
-            btnAlum.Margin = new Padding(3, 2, 3, 2);
+            btnAlum.Location = new Point(174, 298);
             btnAlum.Name = "btnAlum";
-            btnAlum.Size = new Size(164, 25);
+            btnAlum.Size = new Size(201, 33);
             btnAlum.TabIndex = 0;
             btnAlum.Text = "Mantenimiento de alumnos";
             btnAlum.UseVisualStyleBackColor = true;
-            btnAlum.Click += button1_Click;
+            btnAlum.Click += btnAlum_Click;
             // 
             // btnCurso
             // 
             btnCurso.AutoSize = true;
-            btnCurso.Location = new Point(299, 209);
-            btnCurso.Margin = new Padding(3, 2, 3, 2);
+            btnCurso.Location = new Point(422, 298);
             btnCurso.Name = "btnCurso";
-            btnCurso.Size = new Size(152, 25);
+            btnCurso.Size = new Size(186, 33);
             btnCurso.TabIndex = 1;
             btnCurso.Text = "Mantenimiento de cursos";
             btnCurso.UseVisualStyleBackColor = true;
-            // 
-            // btnMatri
-            // 
-            btnMatri.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            btnMatri.AutoSize = true;
-            btnMatri.Location = new Point(507, 209);
-            btnMatri.Margin = new Padding(3, 2, 3, 2);
-            btnMatri.Name = "btnMatri";
-            btnMatri.Size = new Size(90, 25);
-            btnMatri.TabIndex = 2;
-            btnMatri.Text = "Matriculación";
-            btnMatri.UseVisualStyleBackColor = true;
+            btnCurso.Click += btnCurso_Click;
             // 
             // mySqlCommandBuilder1
             // 
@@ -77,13 +63,11 @@
             // 
             // FrmAcademia
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(700, 338);
-            Controls.Add(btnMatri);
+            ClientSize = new Size(800, 451);
             Controls.Add(btnCurso);
             Controls.Add(btnAlum);
-            Margin = new Padding(3, 2, 3, 2);
             Name = "FrmAcademia";
             Text = "FrmAcademia";
             ResumeLayout(false);
@@ -94,7 +78,17 @@
 
         private Button btnAlum;
         private Button btnCurso;
-        private Button btnMatri;
         private MySqlConnector.MySqlCommandBuilder mySqlCommandBuilder1;
+        private void btnAlum_Click(object sender, EventArgs e)
+        {
+            FrmAlumnos frmAlumnos = new FrmAlumnos();
+            frmAlumnos.ShowDialog();
+
+        }
+        private void btnCurso_Click(object sender, EventArgs e)
+        {
+            FrmCursos frmCursos = new FrmCursos();
+            frmCursos.ShowDialog();
+        }
     }
 }

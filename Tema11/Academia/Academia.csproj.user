@@ -10,8 +10,5 @@
     <Compile Update="01view\FrmCursos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="01view\FrmMatricula.cs">
-      <SubType>Form</SubType>
-    </Compile>
   </ItemGroup>
 </Project>
