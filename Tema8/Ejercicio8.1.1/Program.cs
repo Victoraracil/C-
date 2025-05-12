@@ -11,7 +11,7 @@ class Program
         StreamWriter fichero = File.CreateText("registroDeUsuario.txt");
         do
         {
-            Console.Write("Introduce una frase: ");
+            Console.Write("Introduce una frase (fin para finalizar): ");
             frase = Console.ReadLine();
             if (frase != "fin")
                 fichero.WriteLine(frase);
