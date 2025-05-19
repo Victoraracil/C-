@@ -72,9 +72,8 @@ class GestionAlumnos
             return (Alumno);
         }
         return (null);
-
     }
-    public int Edit()
+    public int Editar()
         {
             string sql = "select * from alumnos where dni = '" + this.Alumno.Dni + "'";
             if (BaseDatos.Consulta(sql).Rows.Count > 0)
@@ -87,7 +86,7 @@ class GestionAlumnos
             }
             return -1;
         }
-    public int Insert()
+    public int Insertar()
     {
         string sql = "select * from alumnos where dni = '" + this.Alumno.Dni + "'";
         if (BaseDatos.Consulta(sql).Rows.Count == 0)
@@ -100,7 +99,7 @@ class GestionAlumnos
         return -1;
 
     }
-    public int Remove()
+    public int Eliminar()
     {
         string sql = "select * from alumnos where dni = '" + this.Alumno.Dni + "'";
         if (BaseDatos.Consulta(sql).Rows.Count > 0)
@@ -110,6 +109,19 @@ class GestionAlumnos
         }
         return -1;
 
+    }
+
+    public int Limpiar()
+    {
+        string sql = "delete from alumnos";
+        return (BaseDatos.Modificacion(sql));
+    }
+    public int Buscar()
+    {
+        string sql = "select * from alumnos where dni like '%" + this.Alumno.Dni + "%' and nombre like '%" +
+        this.Alumno.Nombre + "%' and apellidos like '%" + this.Alumno.Apellidos + "%' and telefono like '%" +
+        this.Alumno.Telefono + "%' and poblacion like '%" + this.Alumno.Poblacion + "%'";
+        return (BaseDatos.Modificacion(sql));
     }
     public Alumno GetById(string dni)
     {
