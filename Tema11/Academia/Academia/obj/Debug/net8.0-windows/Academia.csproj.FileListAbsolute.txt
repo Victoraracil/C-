@@ -1,0 +1,118 @@
+C:\Users\vv413\source\repos\Academia\Academia\obj\Debug\net8.0-windows\Academia.csproj.AssemblyReference.cache
+C:\Users\vv413\source\repos\Academia\Academia\obj\Debug\net8.0-windows\Academia._01view.frmAlumnos.resources
+C:\Users\vv413\source\repos\Academia\Academia\obj\Debug\net8.0-windows\Academia.csproj.GenerateResource.cache
+C:\Users\vv413\source\repos\Academia\Academia\obj\Debug\net8.0-windows\Academia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vv413\source\repos\Academia\Academia\obj\Debug\net8.0-windows\Academia.AssemblyInfoInputs.cache
+C:\Users\vv413\source\repos\Academia\Academia\obj\Debug\net8.0-windows\Academia.AssemblyInfo.cs
+C:\Users\vv413\source\repos\Academia\Academia\obj\Debug\net8.0-windows\Academia.csproj.CoreCompileInputs.cache
+C:\Users\vv413\source\repos\Academia\Academia\bin\Debug\net8.0-windows\Academia.exe
+C:\Users\vv413\source\repos\Academia\Academia\bin\Debug\net8.0-windows\Academia.dll.config
+C:\Users\vv413\source\repos\Academia\Academia\bin\Debug\net8.0-windows\Academia.deps.json
+C:\Users\vv413\source\repos\Academia\Academia\bin\Debug\net8.0-windows\Academia.runtimeconfig.json
+C:\Users\vv413\source\repos\Academia\Academia\bin\Debug\net8.0-windows\Academia.dll
+C:\Users\vv413\source\repos\Academia\Academia\bin\Debug\net8.0-windows\Academia.pdb
+C:\Users\vv413\source\repos\Academia\Academia\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\vv413\source\repos\Academia\Academia\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\vv413\source\repos\Academia\Academia\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\vv413\source\repos\Academia\Academia\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\vv413\source\repos\Academia\Academia\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\vv413\source\repos\Academia\Academia\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\vv413\source\repos\Academia\Academia\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\vv413\source\repos\Academia\Academia\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\vv413\source\repos\Academia\Academia\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\vv413\source\repos\Academia\Academia\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\vv413\source\repos\Academia\Academia\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\vv413\source\repos\Academia\Academia\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\vv413\source\repos\Academia\Academia\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\vv413\source\repos\Academia\Academia\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\vv413\source\repos\Academia\Academia\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\vv413\source\repos\Academia\Academia\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\vv413\source\repos\Academia\Academia\obj\Debug\net8.0-windows\Academia.csproj.Up2Date
+C:\Users\vv413\source\repos\Academia\Academia\obj\Debug\net8.0-windows\Academia.dll
+C:\Users\vv413\source\repos\Academia\Academia\obj\Debug\net8.0-windows\refint\Academia.dll
+C:\Users\vv413\source\repos\Academia\Academia\obj\Debug\net8.0-windows\Academia.pdb
+C:\Users\vv413\source\repos\Academia\Academia\obj\Debug\net8.0-windows\Academia.genruntimeconfig.cache
+C:\Users\vv413\source\repos\Academia\Academia\obj\Debug\net8.0-windows\ref\Academia.dll
+C:\Users\vv413\source\repos\Academia\Academia\obj\Debug\net8.0-windows\Academia._01view.FrmAcademia.resources
+C:\Users\vv413\source\repos\Academia\Academia\obj\Debug\net8.0-windows\Academia._01view.FrmCursos.resources
+C:\Users\vv413\source\repos\Academia\Academia\obj\Debug\net8.0-windows\Academia.Properties.Resource1.resources
+C:\Users\vv413\source\repos\Academia\Academia\obj\Debug\net8.0-windows\Academia._01view.FrmMatriculas.resources
+C:\Users\vv413\Downloads\Academia\Academia\obj\Debug\net8.0-windows\Academia.dll
+C:\Users\vv413\Downloads\Academia\Academia\obj\Debug\net8.0-windows\refint\Academia.dll
+C:\Users\vv413\Downloads\Academia\Academia\obj\Debug\net8.0-windows\Academia.pdb
+C:\Users\vv413\Downloads\Academia\Academia\obj\Debug\net8.0-windows\Academia.csproj.AssemblyReference.cache
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\Academia.exe
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\Academia.dll.config
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\Academia.deps.json
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\Academia.runtimeconfig.json
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\Academia.dll
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\Academia.pdb
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\vv413\Downloads\Academia\Academia\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\vv413\Downloads\Academia\Academia\obj\Debug\net8.0-windows\Academia._01view.FrmAcademia.resources
+C:\Users\vv413\Downloads\Academia\Academia\obj\Debug\net8.0-windows\Academia._01view.FrmAlumnos.resources
+C:\Users\vv413\Downloads\Academia\Academia\obj\Debug\net8.0-windows\Academia._01view.FrmCursos.resources
+C:\Users\vv413\Downloads\Academia\Academia\obj\Debug\net8.0-windows\Academia._01view.FrmMatriculas.resources
+C:\Users\vv413\Downloads\Academia\Academia\obj\Debug\net8.0-windows\Academia.Properties.Resource1.resources
+C:\Users\vv413\Downloads\Academia\Academia\obj\Debug\net8.0-windows\Academia.csproj.GenerateResource.cache
+C:\Users\vv413\Downloads\Academia\Academia\obj\Debug\net8.0-windows\Academia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vv413\Downloads\Academia\Academia\obj\Debug\net8.0-windows\Academia.AssemblyInfoInputs.cache
+C:\Users\vv413\Downloads\Academia\Academia\obj\Debug\net8.0-windows\Academia.AssemblyInfo.cs
+C:\Users\vv413\Downloads\Academia\Academia\obj\Debug\net8.0-windows\Academia.csproj.CoreCompileInputs.cache
+C:\Users\vv413\Downloads\Academia\Academia\obj\Debug\net8.0-windows\Academia.csproj.Up2Date
+C:\Users\vv413\Downloads\Academia\Academia\obj\Debug\net8.0-windows\Academia.genruntimeconfig.cache
+C:\Users\vv413\Downloads\Academia\Academia\obj\Debug\net8.0-windows\ref\Academia.dll
+C:\Users\Victor Aracil\Desktop\Academia\Academia\bin\Debug\net8.0-windows\Academia.exe
+C:\Users\Victor Aracil\Desktop\Academia\Academia\bin\Debug\net8.0-windows\Academia.dll.config
+C:\Users\Victor Aracil\Desktop\Academia\Academia\bin\Debug\net8.0-windows\Academia.deps.json
+C:\Users\Victor Aracil\Desktop\Academia\Academia\bin\Debug\net8.0-windows\Academia.runtimeconfig.json
+C:\Users\Victor Aracil\Desktop\Academia\Academia\bin\Debug\net8.0-windows\Academia.dll
+C:\Users\Victor Aracil\Desktop\Academia\Academia\bin\Debug\net8.0-windows\Academia.pdb
+C:\Users\Victor Aracil\Desktop\Academia\Academia\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\Victor Aracil\Desktop\Academia\Academia\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\Victor Aracil\Desktop\Academia\Academia\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Victor Aracil\Desktop\Academia\Academia\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Victor Aracil\Desktop\Academia\Academia\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Victor Aracil\Desktop\Academia\Academia\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\Victor Aracil\Desktop\Academia\Academia\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\Victor Aracil\Desktop\Academia\Academia\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Victor Aracil\Desktop\Academia\Academia\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\Victor Aracil\Desktop\Academia\Academia\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\Victor Aracil\Desktop\Academia\Academia\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\Victor Aracil\Desktop\Academia\Academia\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Victor Aracil\Desktop\Academia\Academia\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Victor Aracil\Desktop\Academia\Academia\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Victor Aracil\Desktop\Academia\Academia\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Victor Aracil\Desktop\Academia\Academia\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\Victor Aracil\Desktop\Academia\Academia\obj\Debug\net8.0-windows\Academia.csproj.AssemblyReference.cache
+C:\Users\Victor Aracil\Desktop\Academia\Academia\obj\Debug\net8.0-windows\Academia._01view.FrmAcademia.resources
+C:\Users\Victor Aracil\Desktop\Academia\Academia\obj\Debug\net8.0-windows\Academia._01view.FrmAlumnos.resources
+C:\Users\Victor Aracil\Desktop\Academia\Academia\obj\Debug\net8.0-windows\Academia._01view.FrmCursos.resources
+C:\Users\Victor Aracil\Desktop\Academia\Academia\obj\Debug\net8.0-windows\Academia._01view.FrmMatriculas.resources
+C:\Users\Victor Aracil\Desktop\Academia\Academia\obj\Debug\net8.0-windows\Academia.Properties.Resource1.resources
+C:\Users\Victor Aracil\Desktop\Academia\Academia\obj\Debug\net8.0-windows\Academia.csproj.GenerateResource.cache
+C:\Users\Victor Aracil\Desktop\Academia\Academia\obj\Debug\net8.0-windows\Academia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Aracil\Desktop\Academia\Academia\obj\Debug\net8.0-windows\Academia.AssemblyInfoInputs.cache
+C:\Users\Victor Aracil\Desktop\Academia\Academia\obj\Debug\net8.0-windows\Academia.AssemblyInfo.cs
+C:\Users\Victor Aracil\Desktop\Academia\Academia\obj\Debug\net8.0-windows\Academia.csproj.CoreCompileInputs.cache
+C:\Users\Victor Aracil\Desktop\Academia\Academia\obj\Debug\net8.0-windows\Academia.csproj.Up2Date
+C:\Users\Victor Aracil\Desktop\Academia\Academia\obj\Debug\net8.0-windows\Academia.dll
+C:\Users\Victor Aracil\Desktop\Academia\Academia\obj\Debug\net8.0-windows\refint\Academia.dll
+C:\Users\Victor Aracil\Desktop\Academia\Academia\obj\Debug\net8.0-windows\Academia.pdb
+C:\Users\Victor Aracil\Desktop\Academia\Academia\obj\Debug\net8.0-windows\Academia.genruntimeconfig.cache
+C:\Users\Victor Aracil\Desktop\Academia\Academia\obj\Debug\net8.0-windows\ref\Academia.dll
