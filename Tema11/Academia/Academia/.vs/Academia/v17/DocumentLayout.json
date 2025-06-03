@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Victor Aracil\\Desktop\\Academia\\Academia\\",
+  "WorkspaceRootPath": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\Academia\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83330011-1798-4F02-853E-3B4FBA4DEDCE}|Academia.csproj|C:\\Users\\Victor Aracil\\Desktop\\Academia\\Academia\\01view\\frmacademia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{83330011-1798-4F02-853E-3B4FBA4DEDCE}|Academia.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema11\\academia\\academia\\01view\\frmacademia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{83330011-1798-4F02-853E-3B4FBA4DEDCE}|Academia.csproj|solutionrelative:01view\\frmacademia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FrmAcademia.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\Academia\\Academia\\01view\\FrmAcademia.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\Academia\\01view\\FrmAcademia.cs",
               "RelativeDocumentMoniker": "01view\\FrmAcademia.cs",
-              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\Academia\\Academia\\01view\\FrmAcademia.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\Academia\\01view\\FrmAcademia.cs [Dise\u00F1o]",
               "RelativeToolTip": "01view\\FrmAcademia.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T14:18:11.401Z",

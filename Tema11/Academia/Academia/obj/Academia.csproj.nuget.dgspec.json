@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victor Aracil\\Desktop\\Academia\\Academia\\Academia.csproj": {}
+    "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\Academia\\Academia.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victor Aracil\\Desktop\\Academia\\Academia\\Academia.csproj": {
+    "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\Academia\\Academia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victor Aracil\\Desktop\\Academia\\Academia\\Academia.csproj",
+        "projectUniqueName": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\Academia\\Academia.csproj",
         "projectName": "Academia",
-        "projectPath": "C:\\Users\\Victor Aracil\\Desktop\\Academia\\Academia\\Academia.csproj",
+        "projectPath": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\Academia\\Academia.csproj",
         "packagesPath": "C:\\Users\\Victor Aracil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victor Aracil\\Desktop\\Academia\\Academia\\obj\\",
+        "outputPath": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema11\\Academia\\Academia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
