@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Codigo_Morse/1.0.0": {
+        "runtime": {
+          "Codigo_Morse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Codigo_Morse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

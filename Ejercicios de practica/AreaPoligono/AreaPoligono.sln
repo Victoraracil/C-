@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaPoligono", "AreaPoligono.csproj", "{B2911BB2-6CC8-4901-99EB-726737EDFC85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2911BB2-6CC8-4901-99EB-726737EDFC85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2911BB2-6CC8-4901-99EB-726737EDFC85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2911BB2-6CC8-4901-99EB-726737EDFC85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2911BB2-6CC8-4901-99EB-726737EDFC85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8357E0C5-5E17-47E9-9B7F-F298DFB243CE}
+	EndGlobalSection
+EndGlobal

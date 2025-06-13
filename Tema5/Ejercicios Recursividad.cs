@@ -84,12 +84,12 @@ class Ejercicios_Recursividad{
 		serie Fibonacci (en la que los dos primeros elementos valen 1, y para los restantes,
 		cada elemento es la suma de los dos anteriores).*/
 		
-		/*Console.WriteLine("Introduce el número de la serie Fibonacci que deseas calcular:");
+		Console.WriteLine("Introduce el número de la serie Fibonacci que deseas calcular:");
         int n = Convert.ToInt32(
 			Console.ReadLine());
 
         int resultado = Fibonacci(n);
-        Console.WriteLine("El número" +  n + " en la serie Fibonacci es: " + resultado);*/
+        Console.WriteLine("El número" +  n + " en la serie Fibonacci es: " + resultado);
 		
 		
 		Console.WriteLine("Presiona ENTER para continuar...");

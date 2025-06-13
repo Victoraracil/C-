@@ -1,0 +1,15 @@
+C:\Users\Mumponet2006\Desktop\C#\Utiles\Utiles\bin\Debug\net8.0\Utiles.exe
+C:\Users\Mumponet2006\Desktop\C#\Utiles\Utiles\bin\Debug\net8.0\Utiles.deps.json
+C:\Users\Mumponet2006\Desktop\C#\Utiles\Utiles\bin\Debug\net8.0\Utiles.runtimeconfig.json
+C:\Users\Mumponet2006\Desktop\C#\Utiles\Utiles\bin\Debug\net8.0\Utiles.dll
+C:\Users\Mumponet2006\Desktop\C#\Utiles\Utiles\bin\Debug\net8.0\Utiles.pdb
+C:\Users\Mumponet2006\Desktop\C#\Utiles\Utiles\obj\Debug\net8.0\Utiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mumponet2006\Desktop\C#\Utiles\Utiles\obj\Debug\net8.0\Utiles.AssemblyInfoInputs.cache
+C:\Users\Mumponet2006\Desktop\C#\Utiles\Utiles\obj\Debug\net8.0\Utiles.AssemblyInfo.cs
+C:\Users\Mumponet2006\Desktop\C#\Utiles\Utiles\obj\Debug\net8.0\Utiles.csproj.CoreCompileInputs.cache
+C:\Users\Mumponet2006\Desktop\C#\Utiles\Utiles\obj\Debug\net8.0\Utiles.sourcelink.json
+C:\Users\Mumponet2006\Desktop\C#\Utiles\Utiles\obj\Debug\net8.0\Utiles.dll
+C:\Users\Mumponet2006\Desktop\C#\Utiles\Utiles\obj\Debug\net8.0\refint\Utiles.dll
+C:\Users\Mumponet2006\Desktop\C#\Utiles\Utiles\obj\Debug\net8.0\Utiles.pdb
+C:\Users\Mumponet2006\Desktop\C#\Utiles\Utiles\obj\Debug\net8.0\Utiles.genruntimeconfig.cache
+C:\Users\Mumponet2006\Desktop\C#\Utiles\Utiles\obj\Debug\net8.0\ref\Utiles.dll

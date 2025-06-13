@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("A_Aracil_Gozalvez_Víctor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19330493cde84414b1bed76977b2a62cf87c3377")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80dafe1f54a56e3e64d8b2877a140a0cd8aaffa0")]
 [assembly: System.Reflection.AssemblyProductAttribute("A_Aracil_Gozalvez_Víctor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("A_Aracil_Gozalvez_Víctor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

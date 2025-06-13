@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema8\\A_Aracil_Gozalvez_V\u00EDctor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68900421-262D-4B46-A3E2-FE3A99CE2BD3}|A_Aracil_Gozalvez_V\u00EDctor.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema8\\a_aracil_gozalvez_v\u00EDctor\\centrodocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68900421-262D-4B46-A3E2-FE3A99CE2BD3}|A_Aracil_Gozalvez_V\u00EDctor.csproj|solutionrelative:centrodocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68900421-262D-4B46-A3E2-FE3A99CE2BD3}|A_Aracil_Gozalvez_V\u00EDctor.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema8\\a_aracil_gozalvez_v\u00EDctor\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68900421-262D-4B46-A3E2-FE3A99CE2BD3}|A_Aracil_Gozalvez_V\u00EDctor.csproj|solutionrelative:alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68900421-262D-4B46-A3E2-FE3A99CE2BD3}|A_Aracil_Gozalvez_V\u00EDctor.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema8\\a_aracil_gozalvez_v\u00EDctor\\buscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68900421-262D-4B46-A3E2-FE3A99CE2BD3}|A_Aracil_Gozalvez_V\u00EDctor.csproj|solutionrelative:buscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68900421-262D-4B46-A3E2-FE3A99CE2BD3}|A_Aracil_Gozalvez_V\u00EDctor.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema8\\a_aracil_gozalvez_v\u00EDctor\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68900421-262D-4B46-A3E2-FE3A99CE2BD3}|A_Aracil_Gozalvez_V\u00EDctor.csproj|solutionrelative:personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68900421-262D-4B46-A3E2-FE3A99CE2BD3}|A_Aracil_Gozalvez_V\u00EDctor.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema8\\a_aracil_gozalvez_v\u00EDctor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68900421-262D-4B46-A3E2-FE3A99CE2BD3}|A_Aracil_Gozalvez_V\u00EDctor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68900421-262D-4B46-A3E2-FE3A99CE2BD3}|A_Aracil_Gozalvez_V\u00EDctor.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema8\\a_aracil_gozalvez_v\u00EDctor\\personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68900421-262D-4B46-A3E2-FE3A99CE2BD3}|A_Aracil_Gozalvez_V\u00EDctor.csproj|solutionrelative:personal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68900421-262D-4B46-A3E2-FE3A99CE2BD3}|A_Aracil_Gozalvez_V\u00EDctor.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema8\\a_aracil_gozalvez_v\u00EDctor\\buscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68900421-262D-4B46-A3E2-FE3A99CE2BD3}|A_Aracil_Gozalvez_V\u00EDctor.csproj|solutionrelative:buscador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68900421-262D-4B46-A3E2-FE3A99CE2BD3}|A_Aracil_Gozalvez_V\u00EDctor.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema8\\a_aracil_gozalvez_v\u00EDctor\\centrodocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68900421-262D-4B46-A3E2-FE3A99CE2BD3}|A_Aracil_Gozalvez_V\u00EDctor.csproj|solutionrelative:centrodocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,27 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema8\\A_Aracil_Gozalvez_V\u00EDctor\\Alumno.cs",
+              "RelativeDocumentMoniker": "Alumno.cs",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema8\\A_Aracil_Gozalvez_V\u00EDctor\\Alumno.cs",
+              "RelativeToolTip": "Alumno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T14:41:54.479Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Personal.cs",
               "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema8\\A_Aracil_Gozalvez_V\u00EDctor\\Personal.cs",
               "RelativeDocumentMoniker": "Personal.cs",
               "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema8\\A_Aracil_Gozalvez_V\u00EDctor\\Personal.cs",
               "RelativeToolTip": "Personal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAYAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T17:47:13.816Z"
+              "WhenOpened": "2025-03-05T17:47:13.816Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -58,32 +72,33 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAALAAAAAAAAAAAAAcwKMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T15:56:24.803Z"
+              "WhenOpened": "2025-03-05T15:56:24.803Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Buscador.cs",
               "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema8\\A_Aracil_Gozalvez_V\u00EDctor\\Buscador.cs",
               "RelativeDocumentMoniker": "Buscador.cs",
               "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema8\\A_Aracil_Gozalvez_V\u00EDctor\\Buscador.cs",
               "RelativeToolTip": "Buscador.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAAAEIAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T17:07:58.655Z"
+              "WhenOpened": "2025-03-05T17:07:58.655Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "CentroDocente.cs",
               "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema8\\A_Aracil_Gozalvez_V\u00EDctor\\CentroDocente.cs",
               "RelativeDocumentMoniker": "CentroDocente.cs",
               "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema8\\A_Aracil_Gozalvez_V\u00EDctor\\CentroDocente.cs",
               "RelativeToolTip": "CentroDocente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T16:35:05.708Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T16:35:05.708Z"
             }
           ]
         }

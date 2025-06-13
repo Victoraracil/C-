@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema10\\Ejercicio10.6.1.1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77B80CAD-DC38-4580-AB74-F7FED0919D0A}|Ejercicio10.6.1.1.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema10\\ejercicio10.6.1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77B80CAD-DC38-4580-AB74-F7FED0919D0A}|Ejercicio10.6.1.1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{77B80CAD-DC38-4580-AB74-F7FED0919D0A}|Ejercicio10.6.1.1.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema10\\ejercicio10.6.1.1\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77B80CAD-DC38-4580-AB74-F7FED0919D0A}|Ejercicio10.6.1.1.csproj|solutionrelative:animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77B80CAD-DC38-4580-AB74-F7FED0919D0A}|Ejercicio10.6.1.1.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema10\\ejercicio10.6.1.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77B80CAD-DC38-4580-AB74-F7FED0919D0A}|Ejercicio10.6.1.1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,25 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema10\\Ejercicio10.6.1.1\\Animal.cs",
               "RelativeDocumentMoniker": "Animal.cs",
               "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema10\\Ejercicio10.6.1.1\\Animal.cs",
               "RelativeToolTip": "Animal.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAIwBwAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T14:55:08.725Z"
+              "WhenOpened": "2025-03-25T14:55:08.725Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema10\\Ejercicio10.6.1.1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema10\\Ejercicio10.6.1.1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAiwIsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-25T14:51:53.912Z",
               "EditorCaption": ""

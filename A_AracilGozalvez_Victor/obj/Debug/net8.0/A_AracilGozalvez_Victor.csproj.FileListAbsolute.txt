@@ -1,0 +1,15 @@
+C:\Users\Victor Aracil\Desktop\C#\A_AracilGozalvez_Victor\obj\Debug\net8.0\A_AracilGozalvez_Victor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Aracil\Desktop\C#\A_AracilGozalvez_Victor\obj\Debug\net8.0\A_AracilGozalvez_Victor.AssemblyInfoInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\A_AracilGozalvez_Victor\obj\Debug\net8.0\A_AracilGozalvez_Victor.AssemblyInfo.cs
+C:\Users\Victor Aracil\Desktop\C#\A_AracilGozalvez_Victor\obj\Debug\net8.0\A_AracilGozalvez_Victor.csproj.CoreCompileInputs.cache
+C:\Users\Victor Aracil\Desktop\C#\A_AracilGozalvez_Victor\obj\Debug\net8.0\A_AracilGozalvez_Victor.sourcelink.json
+C:\Users\Victor Aracil\Desktop\C#\A_AracilGozalvez_Victor\bin\Debug\net8.0\A_AracilGozalvez_Victor.exe
+C:\Users\Victor Aracil\Desktop\C#\A_AracilGozalvez_Victor\bin\Debug\net8.0\A_AracilGozalvez_Victor.deps.json
+C:\Users\Victor Aracil\Desktop\C#\A_AracilGozalvez_Victor\bin\Debug\net8.0\A_AracilGozalvez_Victor.runtimeconfig.json
+C:\Users\Victor Aracil\Desktop\C#\A_AracilGozalvez_Victor\bin\Debug\net8.0\A_AracilGozalvez_Victor.dll
+C:\Users\Victor Aracil\Desktop\C#\A_AracilGozalvez_Victor\bin\Debug\net8.0\A_AracilGozalvez_Victor.pdb
+C:\Users\Victor Aracil\Desktop\C#\A_AracilGozalvez_Victor\obj\Debug\net8.0\A_AracilGozalvez_Victor.dll
+C:\Users\Victor Aracil\Desktop\C#\A_AracilGozalvez_Victor\obj\Debug\net8.0\refint\A_AracilGozalvez_Victor.dll
+C:\Users\Victor Aracil\Desktop\C#\A_AracilGozalvez_Victor\obj\Debug\net8.0\A_AracilGozalvez_Victor.pdb
+C:\Users\Victor Aracil\Desktop\C#\A_AracilGozalvez_Victor\obj\Debug\net8.0\A_AracilGozalvez_Victor.genruntimeconfig.cache
+C:\Users\Victor Aracil\Desktop\C#\A_AracilGozalvez_Victor\obj\Debug\net8.0\ref\A_AracilGozalvez_Victor.dll

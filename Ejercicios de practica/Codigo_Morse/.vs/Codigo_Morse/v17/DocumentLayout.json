@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Ejercicios de practica\\Codigo_Morse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B28A1B5-45AD-4122-ACBE-8115EC8CFF4B}|Codigo_Morse.csproj|c:\\users\\victor aracil\\desktop\\c#\\ejercicios de practica\\codigo_morse\\morse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B28A1B5-45AD-4122-ACBE-8115EC8CFF4B}|Codigo_Morse.csproj|solutionrelative:morse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B28A1B5-45AD-4122-ACBE-8115EC8CFF4B}|Codigo_Morse.csproj|c:\\users\\victor aracil\\desktop\\c#\\ejercicios de practica\\codigo_morse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B28A1B5-45AD-4122-ACBE-8115EC8CFF4B}|Codigo_Morse.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Morse.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Ejercicios de practica\\Codigo_Morse\\Morse.cs",
+              "RelativeDocumentMoniker": "Morse.cs",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Ejercicios de practica\\Codigo_Morse\\Morse.cs",
+              "RelativeToolTip": "Morse.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAvwD0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:55:01.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Ejercicios de practica\\Codigo_Morse\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Ejercicios de practica\\Codigo_Morse\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T14:54:15.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

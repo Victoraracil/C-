@@ -9,7 +9,7 @@ class Program
         GrupoDeDinosaurios grupo = new GrupoDeDinosaurios();
 
         do
-        {
+        {   
             Console.Clear();
             Console.WriteLine("0 - Salir");
             Console.WriteLine("1 - Añadir dinosaurios");

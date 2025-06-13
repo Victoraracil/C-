@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfViaje xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Viaje xsi:type="Autobus">
+    <CiudadOrigen>alicante</CiudadOrigen>
+    <CiudadDestino>madrid</CiudadDestino>
+    <Duracion>3</Duracion>
+    <Precio>3</Precio>
+    <Valoracion>2</Valoracion>
+    <TieneTV>false</TieneTV>
+  </Viaje>
+  <Viaje xsi:type="Tren">
+    <CiudadOrigen>alicante</CiudadOrigen>
+    <CiudadDestino>madrid</CiudadDestino>
+    <Duracion>2</Duracion>
+    <Precio>3</Precio>
+  </Viaje>
+</ArrayOfViaje>
