@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{B4AF1B89-4EFE-4BAC-8C29-570B498A6361}|Ejercicio10.6.3.csproj|solutionrelative:listadeanimales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4AF1B89-4EFE-4BAC-8C29-570B498A6361}|Ejercicio10.6.3.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema10\\ejercicio10.6.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4AF1B89-4EFE-4BAC-8C29-570B498A6361}|Ejercicio10.6.3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4AF1B89-4EFE-4BAC-8C29-570B498A6361}|Ejercicio10.6.3.csproj|c:\\users\\victor aracil\\desktop\\c#\\tema10\\ejercicio10.6.3\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4AF1B89-4EFE-4BAC-8C29-570B498A6361}|Ejercicio10.6.3.csproj|solutionrelative:perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -38,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Gato.cs",
               "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema10\\Ejercicio10.6.3\\Gato.cs",
               "RelativeDocumentMoniker": "Gato.cs",
@@ -50,7 +46,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Perro.cs",
               "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema10\\Ejercicio10.6.3\\Perro.cs",
               "RelativeDocumentMoniker": "Perro.cs",
@@ -58,12 +54,11 @@
               "RelativeToolTip": "Perro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T14:31:04.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-27T14:31:04.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Animal.cs",
               "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema10\\Ejercicio10.6.3\\Animal.cs",
               "RelativeDocumentMoniker": "Animal.cs",
@@ -81,22 +76,9 @@
               "RelativeDocumentMoniker": "ListaDeAnimales.cs",
               "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema10\\Ejercicio10.6.3\\ListaDeAnimales.cs",
               "RelativeToolTip": "ListaDeAnimales.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T14:40:33.47Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema10\\Ejercicio10.6.3\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Victor Aracil\\Desktop\\C#\\Tema10\\Ejercicio10.6.3\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAFsAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T14:22:05.975Z",
               "EditorCaption": ""
             }
           ]
